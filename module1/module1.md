@@ -819,3 +819,125 @@ un aspecto también importante es que el plan de proyecto se tiene
 que mantener siempre actualizado es decir nosotros siempre tenemos que tener disponible la última versión porque
 es la que nos está indicando el plan que debemos seguir
 muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   Los Procesos de Gestión de Proyectos
+
+Los Procesos de Gestión de Proyectos
+
+Hola
+el objetivo de este objeto de aprendizaje
+es dar una descripción básica
+de todos los procesos de gestión de proyectos
+en primer lugar quiero aclarar que
+este objeto de aprendizaje lo que vamos a proporciona una versión muy simplificada de todos los procesos
+gestión de proyectos
+porque el curso que estamos viendo es un curso de introducción básica entonces
+por esta razón hay una serie de procesos que estan relacionados con ciertas áreas de conocimiento que van
+desde los recursos humanos la calidad los riesgos los contratos
+que en un proyecto real en la gestión de proyectos hay que tenerlos muy en cuenta son muy importantes
+pero nosotros en este curso no los vamos a tener en cuenta todos quiero recalcarlo
+antes de
+comenzar a describir el resto de procesos
+de acuerdo con el project management institute y en el PMBOK y en su cuarta edición de dos mil diez
+los procesos de gestión de proyectos se dividen básicamente en cinco grupos de procesos
+y estos procesos digamos coinciden básicamente con lo que sería el ciclo de vida de un proyecto
+por eso tenemos una serie de procesos de iniciación
+de planificación
+de ejecución de seguimiento y control y cierre
+es decir nosotros a tiempo que estamos viendo lo que sería el ciclo de vida del
+proyecto de un proyecto normal como comentado
+que entendemos con iniciación pues el proyecto arranca formalmente
+luego
+lo que sería el núcleo central de la gestión de proyectos es
+la planificación digamos nosotros planificamos el proyecto y como resultado esta planificación obtenemos el plan del proyecto
+después tenemos una fase de ejecución en la que el proyecto se ejecuta de acuerdo a las directrices
+de este plan
+tenemos una serie de procesos de seguimiento y control
+en las que tenemos que ir controlando verificando que estamos siguiendo el plan previsto
+y un poco después cuando termina
+toda fase de realización del proyecto tenemos un cierre que formal
+voy a entrar un poquito más detalle en cada uno de estos procesos
+por ejemplo cuando los procesos de iniciación
+voy a destacar los procesos el primer proceso es desarrollar el acta de constitución del proyecto
+donde el acta de constitución del proyecto digamos que es como un documento formal
+en la que digamos el proyecto empieza
+y normalmente pues este documento a veces es un bien en un contrato o de una
+orden de trabajo y suele contener los requisitos restricciones y los objetivos básicos de nuestro proyecto
+una vez el proyecto inicia
+el primer proceso muy importante que tiene que hacer un jefe de proyecto es identificar a todos los interesados del proyecto
+que es los interesados en comentado en otro objeto de aprendizaje
+y es fundamental identificar los correctamente para poder llevar a cabo el proyecto correctamente
+bueno un poco en este esquema representamos un poco lo que sería en lo que lo que haría
+jefe proyecto este proceso iniciación
+veamos después una fase identificar a los interesados
+digamos que hay un una unos ciertos procesos donde analizamos estos interesados
+cada interesado tiene unos requisitos unos intereses un nivel de influencia puede participar en el proyecto todo
+esto
+sobre todo para los interesados más significativos hay que
+hay que analizarlo
+y tenerlo bien claro y verse y documentarlo esto básicamente se documenta pues lo que sería un registro
+interesados que es una lista donde están los nombres de las personas y organizaciones interesadas
+y luego además de un cierto plan donde gestionamos como vamos a relacionarnos con estos interesados
+el núcleo central de la gestión de proyectos serían los procesos de planificación
+entonces
+el grupo de procesos de planificación
+digamos voy a distinguir entre lo que sería la línea base del proyecto la línea del proyecto
+digamos es la parte fundamental de un proyecto
+que incluye pues vamos a planificar el alcance
+qué es lo que hay que hacer en este proyecto
+un poco estamos hablando del trabajo que hay que hacer en el proyecto
+luego tenemos que planificar el tiempo
+cuándo hay que hacerlo
+entonces como resultado este proceso de planificar el tiempo al final tendremos un cronograma
+y tenemos que planificar los costos
+cuánto nos va a costar hacer el proyecto
+es un poco
+como resultado estos procesos tendremos un presupuesto
+adicionalmente hay toda una serie de procesos de planificación
+que son el resto de planes recursos humanos calidad comunicaciones riesgos etcétera
+que como como mentado no los vamos a tratar en este módulo de aprendizaje
+un poco los procesos de planificación
+cómo se planifica sería la pregunta pues bueno lo lógico es hacerlo secuencialmente
+planificamos alcance qué hay que hacer cuándo hay que hacerlo cuanto nos va a costar
+planificamos el resto de los planes y además tenemos que hacer iterativamente digamos este proceso
+se repite varias veces
+hasta que digamos obtenemos una versión del plan de proyecto razonable
+y otra cosa muy importante es que el plan de proyecto requiere una aprobación formal
+una ya tenemos nuestro plan de proyecto empezamos la ejecución del proyecto entonces
+el proceso básico de la ejecución de proyectos es dirigir y gestionar la ejecución del proyecto
+un poco lo que estamos diciendo qué hay que hacer exactamente las tareas que pone en el plan del
+proyecto hay que ceñirse a este plan
+y como resultado de la ejecución del proyecto pues vamos obteniendo los entregables del proyecto
+también quiero comentar que el plan del proyecto
+en principio no se debe de cambiar no sí pero tampoco es inamovible
+lo que pasa es que como hemos comentado es un documento central en la gestión de proyectos entonces
+cualquier cambio cualquier cambio en el plan de proyecto requiere un procedimiento formal que se denomina pues solicitud y
+aprobación de cambios
+un poco por verlo un pequeño esquema
+que nosotros tenemos un plan de proyecto donde se desglosa pues todo el trabajo que hay
+que hacer
+tenemos un presupuesto que cumplir un calendario
+que cumplir como resultado estos paquetes de trabajo vamos generando los entregables del proyecto hasta que el proyecto finaliza
+y este plan de proyecto que hemos comentado en principio no se modifica excepto que venga por un procedimiento formal
+de solicitud de cambio
+a continuación tenemos los procesos de seguimiento y control bueno que entendemos por procesos de seguimiento y control pues nosotros
+estamos ejecutando el proyecto y tenemos que monitorizar y controlar que estamos haciendo las cosas de acuerdo con nuestro plan
+en principio voy a destacar lo sería controlar la línea base del proyecto que se alcance
+el tiempo los costos que como hemos comentado el núcleo central del plan del proyecto
+y luego pues también habría que controlar el resto de planes del proyecto que no son
+objeto de este curso por eso pues no los ha resaltado
+y un proceso de seguimiento y controles que hemos comentado antes que el control integrado de cambios
+si nosotros en nuestro proceso de monitorización detectamos cambios significativos en nuestro proyecto o de alguna causa externa que nos obliga
+a modificar el plan
+pues iniciamos este procedimiento formal
+de cambio que además de que una aprobación formal
+tampoco
+en este esquema representamos que el plan de proyecto el centro de proyecto no pues nosotros
+alrededor de este plan pues vamos midiendo detectamos variaciones si detectamos variaciones solicitamos cambios se pueden aprobar
+y luego pues una parte del trabajo muy significativa es
+entregar los diferentes entregables del proyecto
+después de pasar los controles de carga correspondiente y también distribuir la información que haga falta a los
+interesados
+por último tendríamos los procesos de cierre del proyecto
+y vemos que cuando hayamos alcanzado los objetivos del proyecto el proyecto se cierra formalmente
+esto es todo muchas gracias.
