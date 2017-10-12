@@ -253,3 +253,569 @@ que hemos descrito brevemente pues algunas de las metodologías
 más importantes conocidas de gestión de proyectos promovidas por
 organizaciones internacionales en este campo.
 Muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Conceptos básicos de Gestión de Proyectos con la metodología PMI   Proyectos, Programas y Portafolios
+
+Proyectos, Programas y Portafolios
+
+Hola mi nombre Alberto Palomares Chust, soy profesor del departamento
+de sistemas informáticos y computación
+de la universidad politécnica de valencia
+e imparto mis clases en la escuela politécnica superior de gandia.
+El objetivo de este objeto de aprendizaje
+es definir comparar y relacionar
+una serie de conceptos que son muy importantes en las empresas que
+se organizan por proyectos, estos conceptos son
+los de proyecto, programa y portafolio.
+Vamos a empezar con lo que sería un proyecto,
+de acuerdo con el project management institute, con el pmi
+pues un proyecto pues es un esfuerzo temporal que se realiza
+para crear un producto servicio o resultado único,
+es decir, los proyectos tienen un carácter claramente acotado,
+tanto temporalmente, como por los objetivos que también están bastante
+bien definidos, una característica que podemos destacar de
+lo que sería a un proyecto es que en principio es independiente
+de otros proyectos que se realizan en la misma organización,
+entonces cada proyecto por sí mismo tiene su propia entidad,
+su gestión, sus resultados. En las empresas lo que sería la gestión
+de proyectos pues la realiza el project management,
+que básicamente pues es la persona cualificada
+para aplicar y cumplir con los objetivos de un proyecto,
+de otro otro concepto es lo que sería un programa.¿Que entendemos
+por un programa? Pues por un programa en una empresa organización
+lo que normalmente entendemos es por un conjunto de proyectos, a
+veces no sólo proyectos, en general podemos
+incluir dentro de un programa tareas que a lo mejor se realizan
+en la organización que no son propiamente dichas proyectos
+y las vamos a agrupar bajo el concepto de programa.
+La característica básica de un programa
+es que lo que queremos hacer es coordinar conjuntamente todas esto
+todos los proyectos, todas estas tareas,
+por ejemplo pues para compartir recursos, esfuerzos, interdependencias,
+material, contratos, etcétera. Es decir es básicamente es optimizar
+la gestión de diferentes tareas y proyectos
+pues para compartir y aprovechar lo máximo posible los
+recursos, la gestión de proyectos en las empresas, en las organizaciones
+la lo realiza el perfil que se denomina genéricamente un program
+manager. Y por último tenemos el concepto de portafolio,
+los portafolios estamos ya a otro nivel, estamos ya lo que sería
+a nivel, alto nivel de la organización
+donde un portafolio ya está muy relacionado con lo que serían los
+objetivos estratégicos de una empresa, de una organización,
+es decir, por ejemplo las organizaciones pues
+establecen prioridades pues teniendo en cuenta aspectos financieros,
+riesgos, la estrategia global de la organización,
+líneas de negocio, líneas interés, mercados futuros,
+en fin estos todos estos conceptos que estarían agrupados
+bajo lo que serían los portafolios, estos conceptos y
+la gestión de los portafolios ya depende de lo que sería pues la
+alta dirección de una empresa o de una organización,
+por lo tanto pues podemos ver como el esquema jerárquico de una
+organización que esté estructurada para funcionar en el
+ámbito de proyectos, nosotros otros en principio pues tendríamos alto nivel
+pues el portafolio que es gestionado por la dirección
+dentro de cada portafolio nosotros lo que tendremos seremos
+serán diferentes programa, cada uno de ellos gestionado por un program
+manager, no sólo programas como  he comentado anteriormente, también puede
+haber proyectos que podría haber proyectos que dependieran directamente
+del portafolio de la organización sin depender explícitamente
+de un programa y luego pues dentro de cada programa pues hay
+diferentes proyectos y también como he comentado anteriormente pues
+podría haber otras tareas que se realizan en la organización
+que no son específicamente proyectos,
+por ejemplo podrían ser operaciones
+o otro tipo de tareas que por el motivo
+que sea normalmente pues por coordinar esfuerzos, compartir recursos
+pues comparten la estructura dentro del programa con proyectos,
+entonces básicamente pues esta sería la estructura típica de una empresa
+que funciona por proyectos donde hay una dirección hay hay
+una hay un conjunto de program manager
+y luego hay un conjunto de project manager que
+jerárquicamente depende de program managers que jerárquicamente
+depende de la dirección de la empresa.
+Por último vamos a comentar brevemente como se miden los resultados
+de estas diferentes estructuras en una organización.
+Cuando nosotros hablamos de un proyecto pues básicamente un proyecto
+se mide pues por la calidad del resultado del propio proyecto,
+es decir, normalmente un proyecto pues tiene que cumplir unos
+objetivos unos plazos, unos unos presupuestos
+es importante saber la satisfacción del cliente por ejemplo
+cuando estamos entregando un producto,
+esto serían los conceptos un poco con los que se mide un proyecto.
+Respecto a un programa, ¿Qué es lo que nos aporta un programa respecto
+a los proyectos? Pues al coordinar diferente diferentes
+proyectos y tareas en estos programas lo que se obtiene un beneficio
+adicional que por ejemplo se obtiene pues al ahorrar por ejemplo
+costes, compartir recursos, globalmente esto lo que
+lo que proporciona es un ahorro a la organización
+respecto a las estos estos gastos, estos recursos hicieran cada
+proyecto por separado por último a nivel de portafolio
+el cumplimiento de un portafolio ya tiene que ver con los
+objetivos estratégicos de la organización, beneficios globales,
+nuevas líneas de negocio, es decir, ya la valoración de lo que
+sería un portafolio ya se hace a otro nivel, a nivel ya general general
+de la organización.
+Como resumen en este objeto de aprendizaje,
+hemos definido brevemente y hemos relacionado los conceptos de
+proyecto programa y portafolio de una organización.
+Muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Conceptos básicos de Gestión de Proyectos con la metodología PMI  Versiones de las Guías de Gestión de Proyectos (PMBOK)
+
+Hola mi nombre es Alberto Palomares Chust
+soy profesor del departamento de sistemas informáticos y computación
+de la universidad politécnica de valencia
+e imparto mis clases en la Escuela politécnica superior de Gandia.
+El objetivo de este objeto de aprendizaje
+es describir y comparar brevemente las diferentes versiones
+de las guías de gestión de proyectos, los denominados PMBOK's
+del Project Management Institute, el PMI.
+El PMI publica periódicamente los PMBOK's que
+son las siglas en inglés de las guías que que publican con sus
+metodologías actualizadas de la gestión del proyecto,
+este organismo pues lo que intenta es cada cierto tiempo publicar
+nuevas versiones de la metodología ¿Porque razón?
+Pues para inte para ir incorporando poco a poco lo que serían
+las buenas prácticas, por buenas prácticas entendemos
+que profesionales del proyecto maneras en todo el mundo que pertenecen
+al PMI con sus artículos, con sus informes,
+con los congresos que realizan van aportando mejoras en lo que sería
+la gestión de proyectos se incorporan nuevas técnicas, nuevas
+herramientas, a veces la propia metodología pues hay algunas cosas
+que no quedan claras del todo pues intenta
+aclarar dudas,
+a veces de realizada adaptaciones de los procesos
+pues porque considera que se puede gestionar mejor los proyectos
+con alguna pequeña variación de este tipo.
+Un poco pues por esta razón para ir manteniendo actualizada la metodología
+van publicando sus versiones, desde el punto de vista vamos a decir
+histórico pues la primera versión de la metodología fue publicada
+en el año mil novecientos noventa y seis y aproximadamente pues cada
+cuatro años se han ido publicando actualizaciones de la
+metodología, la segunda versión en el dos mil, la tercera versión
+fue publicada en el año dos mil cuatro,
+la cuarta en el dos mil nueve, la quinta versión
+fue publicada en el dos mil trece digamos que la versión
+quinta de la metodología es la que está vigente a día de hoy
+en mayo del año dos mil dieciséis y además
+el PMI tiene previsto publicar su nueva versión de la metodología
+aproximadamente para el año dos mil diecisiete.
+Vamos a comentar un poco algunas características algunas diferencias
+entre estas versiones, básicamente
+la primera, la segunda son muy similares,
+la tercera versión del PMBOOK sí que representó un cambio muy significativo
+en toda la metodología respecto a las dos versiones anteriores,
+es decir, aquí las diferencias son claras entre las versiones anteriores
+que eran digamos las preliminares hasta la versión tres que ya podemos
+considerar que es una versión bastante robusta de lo que sería
+la metodología, nosotros por lo tanto lo que podemos decir es que
+a partir de la tercera versión las metodologías que aparecen en
+los PMBOKs son muy robustas y cuando
+hablo de de robustez ¿Que es lo que quiero decir? Pues lo que quiero decir
+es que líneas generales, los elementos principales de la metodología
+siguen siendo válidos entre unas versiones y las siguientes,
+aunque se publican nuevas actualizaciones
+como he comentado anteriormente las actualizaciones son pequeñas
+variaciones, pequeñas mejoras, incorporar alguna nueva herramienta,
+redefinir alguna algún proceso pero en líneas generales la metodología
+es estable no tendría mucho sentido que cada cuatro años nos cambiarán
+completamente la metodología.
+Por entrar un poquito más en detalle
+por ejemplo enre la versión cuatro y la y la cinco que es la
+que está vigente en la actualidad ¿Donde estaría las diferencias
+fundamentales? Pues básicamente están en el área que se denomina
+la gestión de los interesados, hasta la versión cuatro había una
+serie de áreas de conocimiento y lo que sería toda la parte de gestión
+de los interesados de los proyectos no era un área de conocimiento
+específica sino que estos procesos estaban englobados en otras
+áreas de conocimiento, lo que se dieron cuenta
+es que por la por la importancia que tiene la gestión
+de los interesados en los proyectos merecía ser un área de
+conocimiento con los procesos muy específicos ya definidos
+en este campo entonces en líneas generales esta la principal
+modificación entre la versión cuatro y la cinco es cómo tratar la
+gestión de los interesados, hasta la versión cuatro
+había cuarenta y dos procesos y ahora se pasa a cuarenta y siete procesos,
+es decir en principio tenemos cinco procesos de diferencia respecto
+a la anterior en realidad lo que tenemos son siete procesos nuevos
+que son básicamente identificar interesados, planificar la gestión
+de interesados, gestión del compromiso de los interesados,
+monitorización y control de los interesados,
+es decir todo esto procesos están relacionadas específicamente
+con la gestión de los interesados y luego hay otros procesos
+como los planes de gestión del alcance del tiempo y de costes
+que ya pertenecen a otras áreas de conocimiento,
+es decir hemos incorporado siete procesos nuevos en realidad
+han desaparecido dos procesos que eran básicamente los de gestión de
+interesados que en la cuarta versión estaban en otras áreas,
+entonces un poco en resumen tenemos cinco procesos adicionales
+básicamente siete nuevos y dos que han desaparecido o que han cambiado.
+Y luego ya tenemos otras modificaciones digamos menores
+aveces modificaciones de nomenclatura
+se incorpora alguna nueva herramienta, se ha redefinido a lo mejor
+algun un proceso un poquito mejor
+otro aspecto importante es lo que sería la comparativa con la iso
+veintiún mil quinientos y la versión cinco del PMBOK
+esto es importante porque básicamente cuando
+cuando se se se publicó esta versión lo que se intentos que fuera
+compatible con la iso veintiún mil quinientos.
+La iso veintiun mil quinientos es un estándar internacional de gestión
+de proyectos y este es andar es se desarrolló un poco o
+basándose en las principales metodologías de gestión de proyectos
+a nivel internacional pero fundamentalmente se basó en lo que
+era el pmi y en la cuarta versión, entonces sobre todo incorporar
+el tema como la gestión de los interesados como un área de conocimiento
+específica es una de las características que lo hacen compatible
+con el con el iso veintun mil quinientos,
+es decir nosotros podemos decir que la iso
+veintiun mil quinientos es absolutamente compatible con la norma
+que publica el PMBOK. Entonces pues muchas de las novedades que
+aparecen en la versión cinco están relacionadas con este hecho.
+Ahora si nos planteamos que versión utilizar ahora,
+pues vamos a distinguir dos dos dos aspectos: Uno sería la formación,
+es decir cuando una persona empieza a formarse en gestión
+de proyectos pues no hay ninguna diferencia significativa
+entre la versión cuatro y cinco del PMBOK,
+para aprender los conceptos fundamentales da exactamente igual
+a empezar a formarse en una versión que otra.
+Otra cosa sería que ya fuéramos expertos en gestión de proyectos
+y quería y quisiéramos mejorar nuestra formación,
+pues en este caso sí que deberíamos adaptarnos a la versión
+más reciente, en concreto esto es interesante
+si nosotros queremos obtener certificaciones profesionales como
+por ejemplo el PMP y del PMI,
+para obtener esta certificación desde luego el examen de certificación
+está basado en la última versión de la metodología,
+en este caso concreto si es necesario conocer al detalle
+la última versión pero como estoy comentando en la formación
+básica da exactamente lo mismo porque las diferencias son poco significativas.
+Como resumen en este objeto de aprendizaje hemos descrito y comparado
+brevemente las diferentes versiones
+de las guías PMBOK de gestión de proyectos del Project management Institute.
+Muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Conceptos básicos de Gestión de Proyectos con la metodología PMI   Código ético del PMI
+
+Código ético del PMI
+
+Hola mi nombre Alberto Palomares Chust soy profesor del departamento
+de sistemas informáticos y computación
+de la universidad politécnica de valencia e imparto mis clases
+en la escuela politécnica superior de gandia.
+El objetivo de este objeto de aprendizaje
+es describir brevemente el código ético del Project management Institute.
+Actualmente en muchas profesiones, en muchos sectores
+los códigos éticos son un concepto muy utilizado por las organizaciones
+por las empresas, por los países el código ético
+y de conducta profesional del PMI
+fue desarrollado por un comité que se denomina al comité de desarrollo
+de estándares de ética, este comité empezó a trabajar hace unos
+años hasta que en el año dos mil seis público lo que sería la
+versión definitiva de este código ético.
+Nosotros podemos acceder a lo que sería la versión completa de
+este código ético en la dirección que aparece en esta página
+y además está sería en esta dirección tenemos la versión autorizada
+de la traducción en castellano de este código ético.
+Vamos a describir en primer lugar quien debe de cumplir el código
+ético y de conducta profesional del Project Management Institute.
+El Project Management Institute en sus normas indica claramente
+que para que deben de cumplir obligatoriamente este código
+pues todos los miembros y socios del Project Management Institute
+además deben de cumplir este código todas las personas que tengan
+alguna certificación profesional en vigor del PMI por
+ejemplo el Project management professional, el PMP
+aquí hacemos la distinción ya que puede haber personas que tengan
+en vigor una certificación del PMI pero no sean miembros del PMI
+y viceversa
+pero no solo los que tienen certificaciones son miembros del
+PMI sino que además el PMI exige
+que todas las personas que hayan iniciar un proceso de certificación
+por ejemplo las personas que quieran obtener el examen
+del PMP que quieran presentarse a este examen
+deben firmar el código ético y aceptarlo antes de poder presentarse
+al examen, incluso las personas que son voluntarios que
+colaboran con el PMI en diferentes actividades y tareas
+que no son miembros del PMI,
+que no tienen ninguna certificación profesional del pmi,
+incluso ellos tienen la obligación de cumplir el código ético
+del PMI.
+El código ético del PMI, digamos que describe en principio
+un conjun las conductas esperadas entendemos por conjuntas
+o por conductas esperadas comportamientos genéricos
+y también una serie de pautas de comportamiento de obligado cumplimiento
+el PMI agrupa su código ético en torno a cuatro conceptos fundamentales,
+a cuatro valores lo que sería: La responsabilidad, el respeto, la
+imparcialidad y la honestidad.
+Qué entendemos por responsabilidad pues por por responsabilidad
+entendemos la obligación de hacernos cargo de las decisiones
+que tomemos y de las que no tomemos, también de las medidas que
+tomemos y de las que no y de todas las consecuencias que se deriven
+de estas actuaciones de tomar o no
+decisiones.
+El respeto
+el PMI, en su código ético nos nos indica el deber que tenemos
+de de demostrar consideración por nosotros mismos, por los demás
+y por todos los recursos que nos fueron confiados,
+nuevamente por recursos entendemos personas, pues los project
+manager gestionan equipos de trabajo gestionan presupuestos
+dinero, reputación, seguridad, datos, recursos naturales, recursos
+medioambientales, es decir ir hay que hay que actuar siempre con
+respeto a todos estos recursos, un poco el motivo es porque en principio
+un ambiente de respeto por lo que hace es generar confianza
+y excelencia en el desempeño y fomenta por ejemplo la operación
+y además es importante por ejemplo valorar las diferentes perspectivas,
+opiniones y siempre hacerlo desde el punto de vista de respetar
+todo. Imparcialidad
+eso tenemos la obligación de que todas nuestras decisiones y actuaciones
+que se realicen de manera imparcial y objetiva,
+es decir nosotros cuando tomamos cualquier decisión en nuestro
+día a día en la gestión de los proyectos
+tenemos que evitar por ejemplo los intereses personales si entran
+en conflicto con el proyecto, los prejuicios los favoritismos todos,
+todas todos estos conceptos van en contra de lo que sería la
+imparcialidad que son una obligación que impone el código ético
+del PMI.
+La honestidad, es decir la honestidad indica que
+que siempre tenemos que actuar honestamente, con sinceridad
+en nuestra conducta, en nuestras comunicaciones pues el código ético
+del PMI nos impone que seamos honestos
+y además el PMI en su en su código ético aparte de estos conceptos
+generales si que da una serie de normas más específicas de con
+de obligado cumplimiento que nosotros no vamos a detallar aquí
+en este momento porque tiene una cierta extensión todo este código
+ético pero cualquier persona que esté
+en la obligación de cumplir este código pues debe conocer
+por ejemplo todo el código ético es un tema fundamental cuando
+la gente se examina para las certificaciones profesionales del
+PMI es un es un apartado importante con bastantes preguntas
+al respecto ya que un poco lo que nos está indicando el tema y
+con con esta circunstancia es que tenemos que conocer el código
+ético perfectamente para poder ser para poder estar certificados
+ejercer la profesión de project manager.
+Como resumen en este objeto de aprendizaje pues hemos descrito brevemente
+lo que sería el código ético del Project management Institute.
+Muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   Conceptos Básicos de Gestión de Proyectos
+
+Conceptos Básicos de Gestión de Proyectos
+
+Hola buenos días el objetivo
+de este objeto de aprendizaje
+es introducir algunos de los conceptos básicos de gestión de proyectos
+en primer lugar nos tenemos que preguntar qué es un proyecto
+entonces
+de acuerdo con el project management institute un proyecto es un esfuerzo temporal realizado para crear un resultado único
+vemos que en esta definición hay dos conceptos importantes
+por un lado está el concepto temporal y por otro lado el concepto único
+cuando hablamos de que el proyecto es un esfuerzo temporal
+estamos diciendo que un proyecto empieza y después finaliza
+y cuando finaliza un proyecto pues en primer lugar la forma habitual de finalizar un proyecto
+es cuando logramos los objetivos del proyecto
+pero también un proyecto puede finalizar porque los objetivos no se pueden cumplir
+o por alguna causa en ese caso también tenemos que parar el proyecto
+o también porque no existe la necesidad que originó inicialmente el proyecto
+también otro aspecto que tenemos
+que destacar de la definición de proyecto es que el resultado es único
+cuando
+nosotros un proyecto siempre lo realizamos
+pues para desarrollar un producto un servicio o la capacidad para realizar un servicio para preparar un documento un artículo
+veamos cualquier
+trabajo que podamos
+asignarle estas características básicas de temporal que tenga un principio y un fin
+y al final el resultado sea único podemos considerar que es un proyecto
+cuando hablamos de la gestión de proyectos que nos estamos refiriendo pues
+gestionar un proyecto es aplicar una serie de conocimientos habilidades herramientas
+y técnicas
+que permiten cumplir los objetivos del proyecto
+en particular el project management institutet en el PMBOK cuarta edición
+propone una metodología en la que se identifican pues un total de cuarenta y dos procesos
+de dirección de proyectos
+entonces el PMBOK describe los procesos las técnicas las herramientas que se tienen que aplicar en cada caso
+otro aspecto importante en un proyecto es que quien es la persona que gestiona el
+proyecto entonces en principio el nombre que se suele utilizar es el jefe de proyecto proyect
+manager
+que en principio la persona que designe una organización para gestionar y alcanzar los objetivos del proyecto
+entonces
+qué es lo que debe de cumplir un proyect manager pues
+bueno es una persona que debe conocer
+las herramientas y técnicas adecuadas para dirigir proyectos eficientemente
+luego
+debe tener ciertas habilidades personales de liderazgo que permiten guiar el proyecto esto sobre todo tiene que
+ver con proyectos complejos donde hay que
+no sólo hay que planificar proyectos sino además hay que dirigir recursos humano los
+contratos hay toda una serie de temas alrededor de un proyecto que requieren bastantes habilidades
+y
+digamos proyect manager es la persona que dirige estas tareas
+que son un poco las realizar lo que denominamos equipo del proyecto
+a otro concepto que también es muy importante
+en gestión de proyectos es los denominados interesados del proyecto
+entonces quiénes son los interesados de proyecto pues
+pues son pues personas entidades organizaciones
+que
+que o bien participar activamente el proyecto o también aquellas que es cuyos intereses pueden verse afectados positiva o negativamente por
+el proyecto
+cuando nosotros estamos en un proyecto
+estos hechos los tenemos que tener muy en cuenta
+también hay personas que no están directamente el proyecto pero que pueden influir sobre su ejecución
+entonces una de las labores más importantes un jefe de proyecto es identificar
+a los interesados más significativo remarcó lo de los más significativos
+porque son los que hay que tener presente a la hora de planificar nuestro proyecto
+quienes son posibles interesados de un proyecto pues bueno estos muy variado y depende de cada
+ámbito de cada proyecto pero por nombrar algunos pues podemos los clientes usuarios
+puesto son las personas y organizaciones que van a usar los servicios o productos
+que se genera nuestro proyecto
+el patrocinador pues esto es muy importante es la persona que financia el proyecto
+en las empresas pues suele haber directores de programa o de portafolio que son
+responsables de nivel superior pues que coordinan proyectos relacionados o
+programas de alto nivel
+puede haber interesados externos como comentaba esto depende de cada proyecto de cada caso de cada campo de conocimiento
+pero sí que es un tema muy importante antes de empezar gestionar un proyecto
+muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   La Organización
+
+La Organización
+
+Hola buenos días el objetivo de este objeto de aprendizaje
+es describir la organización en la que se desarrolla el proyecto y su importancia algunos conceptos relacionados
+con la organización que hay que tener en cuenta a la hora de gestionar un proyecto adecuadamente
+los proyectos no son algo que se realiza aisladamente sino normalmente
+se realizan dentro de una determinada organización
+y claro sus características se deben de tener muy en cuenta para poder gestionarlos adecuadamente
+por ejemplo no está trabajando una empresa esa empresa organización
+sobre la que se desarrolla el proyecto
+o si estamos trabajando la universidad la universidad es la organización que desarrolla o nuestros proyectos
+todas las organizaciones tienen su forma de trabajar
+y
+y además muchas de ellas también han establecido formalmente se lo que a veces
+vemos como visiones valores
+normas creencias y expectativas políticas bueno hay toda una nomenclatura de lenguaje de documentació donde de estos
+conceptos
+donde las organizaciones un poco intentan plasmar
+su forma de trabajar su forma de realizar las cosas
+lógicamente esto es importante para gestionar los proyectos se desarrollan dichas organizaciones otros datos que tenemos muy en cuenta
+otro aspecto muy importante de las organizaciones es que pues las organizaciones tienen determinadas estructuras
+también influye en la forma que gestionan los proyectos pues podemos encontrar desde
+las organizaciones digamos funcionales clásicas
+que son pues organizaciones jerárquicas donde habíamos cada empleado cada trabajador tiene jefes bien definidos los roles están bastante
+claros
+en el otro extremo tenemos digamos lo que serían las orden las organizaciones claramente orientadas a la gestión por proyecto
+donde en este caso pues la figura del problema ayer tiene mucha independencia mucha autoridad sobre
+la forma de ejecutar y gestionar los proyectos
+y entre estos dos digamos casos límite pues existe toda una amplia
+variedad de organizaciones que presentan características intermedias
+que sólo que se denominan organizaciones matriciales
+como hemos comentado pues estas características hay que tenerlas en cuenta
+para poder gestionar el proyecto adecuadamente
+otro aspecto muy importante de las organizaciones es que las organizaciones además siempre presentan
+lo que denominamos activos los activos son
+elementos documentos cosas que tenemos en la organización que nos pueden ayudar a gestionar el proyecto mejor
+en concreto de los activos de una organización voy a destacar dos lo que serían los
+procesos y procedimientos
+y también las bases de conocimiento disponibles
+con respecto a los procesos y procedimientos bueno pues esto es
+un tema muy amplio podemos
+que entendemos por procesos y procedimientos pues desde estándares normas de calidad
+y procedimientos de calidad auditorías
+tenemos
+pues como a cómo se mide la evaluación de nuestro trabajo lo que denominamos desempeño
+cómo varía los resultados de los proyectos
+existen también pueden existir plantillas de trabajo
+si tenemos ya plantillas
+preparadas nos pueden ayudar a digamos gestionaría documentar nuestro trabajo de una forma mejor
+pueden haber requisitos de comunicacion a quien hay que comunicar determinada información en qué momento
+puede haber
+ciertos temas de control financiero que tenemos que tener en cuenta a la hora de planificar
+ciertas partes de nuestro proyecto etcétera todo esto lo que denominaremos procesos y procedimientos
+de la organización
+y también consideramos activos de nuestra organización lo que serían las bases corporativas de conocimiento
+pues dentro de las bases corporativas casi podemos decir que sea cualquier información
+que la organización dispone y que nosotros nos ayuda
+a gestionar mejor nuestro proyecto pues desde datos de cómo se han se han realizado procesos anteriores
+proyectos para saber si se es
+cuando las cosas están haciendo mejor o peor
+archivos y documentos de proyectos que han que se han realizado anteriormente estos albergues domináis información histórica y lecciones aprendidas
+cuando ha habido problemas cuando ha habidos defectos como se han resuelto pues si esto está documentado de toda adecuadamente
+y eso nos permite tener en cuenta lo que pasó otras veces para intentar no repetir
+los errores
+una cosa muy importante es la configuración entonces lo normal es que
+cuando estamos trabajando en gestión de proyectos muy importante
+tener siempre la última versión de
+de los planes de las normas de los procedimientos entones
+es muy importante que cuando estemos el proyecto accedemos siempre a la última versión la que está en vigor
+muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   La Gestión de Proyectos: Framework   El Plan del Proyecto
+
+El Plan del Proyecto
+
+Hola buenos días el objetivo de este objeto de aprendizaje
+es definir lo que es el plan de proyecto
+y los documentos que lo constituyen
+el plan de proyecto
+digamos es el documento que engloba todos los planes que hemos ido desarrollando durante los diferentes procesos de planificación
+es muy importante que remarquemos que el plan de proyecto
+es el elemento fundamental el núcleo central de lo que es la gestión de proyectos
+porque como iremos viendo los diferentes
+videos
+de este módulo todo gira alrededor del plan del proyecto tanto de prepararlo como de seguir estrictamente
+digamos que incluye el plan de proyecto pues bueno en primer lugar incluye
+los planes de gestión principales del proyecto lo que denominamos la línea base del proyecto
+que es la línea base del proyecto incluye
+los requisitos de nuestro proyecto es decir elementos de cumplimiento obligatorio
+estos elementos normalmente solemos encontrarlo en el acta o contrato que ha iniciado el proyecto
+incluye el alcance
+qué es lo que tenemos que hacer en el proyecto
+incluye el cronograma cuándo tenemos que hacerlo
+y los costos cuánto nos costará hacer el proyecto
+esto digamos es el núcleo central de nuestro plan de proyecto
+pero el plan del proyecto incluye muchas más cosas
+en primer lugar tenemos que recordar que hay otros planes
+que no se consideran este curso al ser un curso de iniciación
+pero que en un plan de proyecto real deberían estar la gestión de riesgos la gestión de
+calidad recursos humanos
+comunicaciones adquisiciones contratos
+con todos los elementos
+requeridos por gestar un proyecto adecuadamente tienen que tener su plan que tiene que estar contenido en este plan de proyecto
+además el plan de proyecto del proyecto incluye otras cosas que no son exactamente planes
+que son muy importantes
+si nuestro proyecto va a tener diferentes fases porque es un proyecto a largo complejo tenemos que detallar
+el plan de proyecto es decir sería el ciclo de vida ampliado nuestro proyecto
+tenemos que incluir los procesos que se aplicarán en cada fase
+es un tema muy importante porque cuando gestionamos un proyecto
+no tenemos que utilizar todos los procesos de la metodología de gestión de proyectos sino de los que utilizan los
+que sean adecuadas para gestionar nuestro proyecto adecuadamente
+entonces en el plan de proyecto tenemos que detallar estos procesos que están
+exactamente los útilizamos y porque
+en cada caso hay que utilizar se puede utilizar diferentes herramientas y técnicas no hay que utilizar
+todas las técnicas posibles
+la idea es que seleccionemos los que sean más adecuadas para nuestro proyecto
+también es muy importante que en el plan de proyecto pues contemplemos las posibles interacciones entre diferentes procesos
+las entradas y salidas de cada proceso
+la forma en que ejecutaremos el trabajo o cualquier
+cualquier otra otro aspecto factor que consideremos importantes en la gestión del proyecto debería estar incluido en el plan del proyecto
+el proyect manager o jefe de proyecto digamos es la persona responsable en primer lugar de hacer el plan de
+proyecto es decir de planificar el proyecto
+es responsable no quiere decir que sea la única persona que hace el plan de proyecto normalmente el plan de proyecto
+se hace en colaboración con el resto del equipo del proyecto
+aunque el es el responsable fundamental
+y después cuando estamos ejecutando el proyecto el proyect manager es el responsable de digamos de
+asegurar que las tareas se ejecuten estrictamente de acuerdo con este plan
+el jefe de proyecto tiene que estar continuamente monitorizando
+el alcance los plazos los costos la calidad etcétera se cumplen de acuerdo con el plan del proyecto
+digamos que el plan de proyecto
+en principio es fijo
+y solamente debería cambiarse mediante un procedimiento formal que es la solicitud de cambio o control integrado de
+cambios
+normalmente cuando hablamos de control integrado de cambios
+lo que estamos diciendo es que en primer lugar hay una serie de solicitudes de cambio que se deben revisar
+y después estos cambios se deben aprobar no todos los cambios solicitados tienen porque ser aprobados
+normalmente la autorización para realizar un cambio en el plan de proyecto
+tiene que ser externa al proyecto suele ser alguien que tenga la autoridad para hacerlo
+pues puede ser el patrocinador el director de nuestra empresa el cliente
+o cualquier otra persona u organización que el plan de proyecto debe estar contemplado quienes
+un aspecto también importante es que el plan de proyecto se tiene
+que mantener siempre actualizado es decir nosotros siempre tenemos que tener disponible la última versión porque
+es la que nos está indicando el plan que debemos seguir
+muchas gracias.
