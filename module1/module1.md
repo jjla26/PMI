@@ -941,3 +941,93 @@ interesados
 por último tendríamos los procesos de cierre del proyecto
 y vemos que cuando hayamos alcanzado los objetivos del proyecto el proyecto se cierra formalmente
 esto es todo muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Planificar el Alcance del Proyecto
+
+Planificar el Alcance del Proyecto
+
+Hola buenas
+el objetivo de este objeto de aprendizaje
+es definir lo que entendemos por el concepto de alcance de un proyecto
+y también vamos a describir los procesos básicos
+que tenemos que seguir para planificar el alcance de un proyecto
+cuando hablamos de gestión del alcance de un proyecto básicamente estamos hablando del trabajo que tenemos que hacer con el proyecto
+digamos si queremos de una definición un poquito más formal
+podemos dar la siguiente son los procesos
+necesarios para definir y controlar el trabajo requerido para completar el proyecto
+este proceso
+digamos se divide en una serie de procesos que son los que se numeran aquí
+el primero sería recopilar los requisitos después definir el alcance
+y por último crear la estructura de desglose del trabajo
+por la importancia que tiene la estructura de desglose de trabajo en gestión de proyectos
+la trataremos aparte en un objeto de aprendizaje diferente y en este
+objeto de aprendizaje definiremos únicamente los procesos de recopilar requisitos definir el alcance
+en este esquema un poco intentamos representar en qué fase del proyecto estamos digamos después de haber
+llevado a cabo los procesos de inicio donde digamos
+hay un acta del proyecto que ha sido la constitución formal del proyecto
+que hemos hecho proceso de identificar los interesados con lo que hemos generado un registro
+con los interesados más importantes del proyecto y sus características
+a partir de aquí pues vamos a elaborar
+una serie de documentos que es
+en primer lugar vamos a tener en cuenta lo que serían los requisitos
+que son los requisitos
+ante cuando cuando hablamos de requisitos estamos hablando casi de condiciones obligatorias
+que tiene que cumplir nuestro proyecto los requisitos pueden ser muy variados
+ a veces un requisito puede ser
+un plazo para terminar el proyecto un entregable pueden ser unas características de calidad determinadas pueden ser unos determinados requisitos funcionales
+el producto que hay que elaborar tiene que hacer esto y eso es un requisito
+y criterios de calidad presupuestarios etcétera una caracteristica es muy importante es que los requisitos deben ser medibles
+por que deben ser medibles porque
+después cuando nosotros generemos los entregables del proyecto
+hay que medir que hemos cumplido los requisitos
+para esos entregables la única forma que nosotros hayamos establecido previamente los criterios de evaluación es decir
+la medida
+deben de ser completos coherentes
+también es muy importante
+que estos requisitos deben de ser
+aceptables para los interesados clave del proyecto
+recordemos que el plan de proyecto requiere una aprobación formal
+entonces en esta aprobación formal uno de los elementos más importantes
+es que los requisitos
+sean los que los clientes patrocinadores de nuestro proyecto nos han impuesto es decir los interesados clave
+digamos que después de tener los requisitos el alcance ya digamos sería más propiamente dicho el trabajo que hay
+que hacer si queremos dar una definición un poco formal pues
+el alcance del proyecto es una descripción detallada del proyecto del proyecto y del producto a partir
+de los entregables supuestos y restricciones
+y ahora es muy importante destacar el concepto de entregable
+que es básico digamos lo que es la definición del alcance de un proyecto que un poco
+un entregable es un componente que qué hacer en nuestro proyecto
+como se ha comentado al objeto de aprendizaje de planificación
+global hemos visto que la planificación se realiza progresivamente es decir nosotros vamos
+recopilando información vamos documentando
+seguimos el resto de procesos de planificación normalmente estos procesos
+el resto de procesos de planificación nos introducen condiciones adicionales que nos obligan a ir
+modificando un poco lo que sería el alcance del proyecto
+hasta que tenemos una versión digamos aceptable
+es muy importante cuando planificamos alcance analicemos
+todos los aspectos que hay alrededor de alcance como riesgos supuestos restricciones la completitud
+vuelvo remarcar que la planificación del alcance es uno de los aspectos fundamentales del proyecto porque
+si no dejamos documentado bien
+claro con mucha claridad qué es lo que hay que hacer y cuáles son los criterios de aceptación de ese trabajo
+a partir de ahí el proyecto puede tener problemas
+veamos un poco como resultado de este proceso de planificación
+obtenemos un documento que es lo que denominamos enunciado del alcance del proyecto
+un poco este enunciado del alcance es para resaltarlo de nuevo es describir con todo el detalle posible
+los entregables del proyecto y el trabajo que tenemos que hacer pues
+un aspecto muy importante de esta documentación es que nos debe permitir
+entendernos tanto con el equipo del proyecto que es el que va a realizar el trabajo
+como con los interesados clave del proyecto es decir nosotros tenemos que explicar nuestro equipo de
+trabajo tiene que hacer
+y pues tenemos que ponernos
+de acuerdo con los interesados que hemos hecho el trabajo que ellos esperaban
+y por lo que está documentación debe contener pues exclusiones
+y otros aspectos que sean importantes a la hora de
+de validar esos entregables
+una característica importante del plan de proyecto es que se el alcance forma parte digamos del núcleo central del
+plan de proyecto
+es lo que se denomina la línea base del proyecto
+entonces
+por eso es un elemento que es fundamental planificarlo
+con el mayor detalle posible y con el análisis que se requiera
+para intentar evitar problemas posteriores
+muchas gracias.
