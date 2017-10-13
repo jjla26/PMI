@@ -1031,3 +1031,106 @@ por eso es un elemento que es fundamental planificarlo
 con el mayor detalle posible y con el análisis que se requiera
 para intentar evitar problemas posteriores
 muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Estructura de Desglose del Trabajo (EDT) 
+
+Estructura de Desglose del Trabajo (EDT)
+
+Hola buenas
+el objetivo de este objeto de aprendizaje es definir el concepto de estructura de desglose del trabajo o EDT
+la estructura de desglose del trabajo WBS con sus siglas en inglés
+es una descomposición jerárquica del trabajo y los entregables del proyecto
+en componentes más pequeños y fáciles de gestionar
+y al nivel más bajo de la estructura de desglose de trabajo se le llama paquetes
+de trabajo o work packages WP con sus siglas en inglés
+en principio la estructura de desglose del trabajo forma parte de la definición del alcance de
+un proyecto es decir qué es lo que hay que hacer
+sin embargo por su importancia en gestión de proyectos
+hemos considerado conveniente tratarla en un objeto de aprendizaje independiente
+aquí podemos ver un ejemplo de una estructura de desglose de trabajo
+nosotros tenemos nuestro proyecto y nuestro proyecto lo vamos descomponiendo
+en paquetes de trabajo cada vez más pequeños
+hasta que
+a último nivel
+los work packages digamos que son paquetes de trabajo que somos capaces de gestionar
+también es importante
+observar
+su estructura jerárquica
+y la anotación que estamos utilizando para definir los paquetes de trabajo
+vemos que tienen cuenta también esta estructura jerárquica por ejemplo el paquete de trabajo dos tiene
+por debajo tres paquetes de trabajo son dos uno dos dos el dos tres a su vez
+el paquete de trabajo dos tres
+y otros paquetes de trabajo inferiores y así sucesivamente y con esta codificación
+estamos señalando esa jerarquía
+un aspecto muy importante es que la estructura de desglose de trabajo
+tiene que estar claramente orientada
+al trabajo que nosotros tenemos que hacer para cumplir los objetivos del proyecto
+y desarrollar los entregables
+el concepto de entregables es fundamental en gestión de proyectos
+de hecho la estructura de desglose de trabajo
+se le puede denominar también estructura de desglose de los entregables del proyecto dado que
+la descomposición que estamos haciendo está muy ligada a dichos entregables
+y nos preguntamos qué es un entregable pues bueno un entregable es un producto servicio o
+resultado único y verificable esto es fundamental
+cualquier entregable de trabajo cualquier paquete de trabajo nosotros debemos de ser capaces
+de verificar que ese trabajo está completamente realizado y luego el aspecto único que como hemos
+comentado es fundamental la gestión de proyectos
+la estructura de desglose de trabajo
+es un elemento fundamental en gestión de proyectos casi podemos decir que es uno de los elementos
+centrales en la misma
+ya que por ejemplo permite comunicarnos con los interesados patrocinadores y miembros del equipo esto quiere decir
+nosotros tenemos que contactar con nuestros clientes y decirle si hemos hecho el trabajo no lo hemos
+hecho qué porcentaje de trabajo hemos realizado
+pero por otra parte tenemos comunicarlos con los miembros de nuestro equipo para decirles que
+trabajo tienen que hacer qué trabajo falta por hacer
+como veremos en otros objetos de aprendizaje de este mismo módulo de aprendizaje este
+esta estructura se utiliza también como entrada para muchos otros procesos como la estimación de tareas
+riesgos la estimación del calendario los costos del proyecto
+es decir es un elemento central y básico en la gestión de proyectos
+una característica importante es la denominada regla del cien por cien es decir
+la estructura de desglose de trabajo debe contener todo el trabajo y sólo ese trabajo es decir
+tiene que incluir el cien por cien del trabajo previsto en nuestro proyecto
+normalmente a la hora de preparar una estructura de desglose de trabajo
+lo habitual suele ser en los niveles superiores
+más o menos éste muy relacionados con los entregables principales del proyecto
+y se utilizan un poco para medir para evaluar el progreso del proyecto pero que digamos a muy alto nivel
+mientras que los niveles inferiores de la estructura de desglose de trabajo
+ya son más adecuados desde el punto de vista de la gestión que realiza el jefe de proyecto
+para controlar tiempos costes riesgos el trabajo que dice que se debe realizar
+es decir uno está más relacionado con la comunicación con los interesados del proyecto y el nivel inferior estamos
+más centrado con la comunicación que nosotros tenemos que hacer día a día para gestionar nuestro proyecto
+en este esquema lo que intentamos representar es un poco dónde estaría la estructura de desglose de trabajo nuestro proyecto
+nosotros después de haber detectado lo a los interesados y tener un patrocinador nuestro proyecto nuestro
+proyecto se ha constituido formalmente a partir del acta
+y durante el proceso de planificación
+hemos llegado a nuestra estructura de desglose de trabajo esta estructura de desglose de trabajo
+forma parte del plan del proyecto y ocupa un lugar central en la misma
+todos los proyectos de gestión de proyectos planificar ejecutar monitorizar comunicar con los interesados se realizan todos alrededor
+de este plan de proyecto en la que como hemos comentado la estructura de desglose de trabajo
+ocupa un libro un lugar central
+las estructuras de desglose de trabajo
+también se utilizan para introducir los denominados controles de cuenta
+es decir puntos donde nosotros pues queremos ser capaces de medir con más detalle la evolución
+y sobre todo el presupuesto costos del proyecto
+nuevamente un aspecto importante es el control de cuentas
+no tiene que estar al nivel de los paquetes de trabajo más pequeños de hecho un control
+de cuentas puede englobar diferentes paquetes de trabajo de la EDT
+pero cualquier paquete de trabajo de que siempre está asociada a un único control de cuentas
+a modo de ejemplo pues en nuestra estructura de desglose de trabajo hemos añadido en ciertos puntos
+el control de cuentas vemos que en estos puntos
+nosotros haríamos un control especial sobre todo es del tipo de
+desde el punto de vista presupuestario del avance de nuestro proyecto
+bueno aquí podemos observar de nuevo también
+la codificación de la EDT en la que se ve claramente la estructura jerárquica de la misma
+por último quiero comentar que muchos problemas que aparecen durante la gestión de proyectos
+están ocasionados porque hemos cometido errores al prepararla EDT es decir cuando hemos establecido
+para la EDT que básicamente nos dice qué trabajo hay que hacer
+no lo hemos hecho bien nos ha quedado incompleta y trabajo que hemos incluido entregables que hemos incluido
+está mal definida poco clara
+si esta poco clara como hemos comentado anteriormente es difícil determinar que el trabajo está realizado o
+qué porcentaje de trabajo hemos realizado
+si hay muchos cambios en la misma es que está mal definida
+si además observamos que hay fallos en los entregables problemas de comunicación todos estos temas
+muchas veces están relacionados con fallos en nuestra planificación del trabajo que hay que realizar está
+contemplado dentro de la EDT
+esto es todo muchas gracias
