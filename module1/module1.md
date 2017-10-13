@@ -1276,7 +1276,7 @@ marca
 los costes para planificados respecto a los cuales monitorizaremos el desarrollo real de nuestro proyecto
 muchas gracias.
 
-# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Técnica de Gestión del Valor Ganado 
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Técnica de Gestión del Valor Ganado  (EVM) 
 
 Técnica de Gestión del Valor Ganado
 
