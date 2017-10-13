@@ -1200,3 +1200,78 @@ aquí en este ejemplo podemos utilizar una herramienta
 que Microsoft Project que nos permite
 generar el diagrama de Gram del proyecto que es el cronograma de nuestro proyecto
 muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Planificar el Presupuesto del Proyecto
+
+Planificar el Presupuesto del Proyecto
+
+Hola buenas
+el objetivo de este objeto de aprendizaje
+es dar una visión de los procesos básicos
+de gestión de proyectos para gestionar lo que sería los costos del proyecto y elaborar el presupuesto del mismo
+de acuerdo con el project management institute los procesos para estimar presupuestar los costos del proyecto son dos
+estimar los costos
+digamos donde estimamos los recursos necesarios para completar las actividades del proyecto con recursos me refiero
+tanto a recursos a personas como equipos
+y después determinar el presupuesto del proyecto propiamente dicho
+que básicamente consisten sumar los costos de las diferentes actividades
+y establecer el presupuesto del proyecto o línea base de costo
+para planificar el presupuesto del proyecto partimos de
+de los resultados de los procesos de planificación anterior obtenemos nuestra estructura de desglose de trabajo
+después hemos llegado a un nivel de detalle mayor que serían las tareas recordemos que las tareas
+eran elementos que éramos capaces de estimar la duración y los recursos necesarios para hacerlo quiero
+decir que en esta tarea sabemos que necesitamos determinadas personas por ejemplo recurso 1
+determinadas horas
+por ejemplo cien horas cincuenta horas las que sean
+sabemos el coste hora de cada uno de estos recursos por ejemplo veinte euros ahora treinta euros
+hora
+de forma que nosotros podemos estimar
+para cada tarea
+pues por ejemplo en este caso recursos 1
+tantas horas con tal coste ahora dos mil euros recurso 2 mil quinientos euros además debemos de incluir no
+sólo los recursos humanos si no tambien recursos materiales
+necesitamos determinados equipos
+lo que nos haga falta pues lo sumamos
+los humanos de forma que tenemos el total de costos para la tarea
+cuando
+vemos que
+ya tenemos para cada una de las tareas de nuestro proyecto
+estimados los costos
+estamos en condiciones de elaborar el presupuesto normalmente en el gestión de proyectos
+se habla de valor planificado planned value PV en siglas
+que es el presupuesto que nosotros hemos planificado para nuestro proyecto
+este presupuesto digamos que es un elemento fundamental de la línea base de costos que forma parte pues
+del núcleo de nuestro plan de proyecto
+normalmente a la hora de presentar el presupuesto de un proyecto
+lo que se suele hacer es presentarlo
+en períodos de tiempo fijos por ejemplo el mes yo creo que es una unidad temporal
+bastante razonable lo que es gestión de proyectos en las empresas
+no tiene por qué ser el mes pero bueno
+en cada caso
+dependerá de la unidad escogida entonces lo que se suele hacer es presentar el presupuesto acumulado
+es decir todas las tareas que se desarrollan
+en ese período de tiempo se suman los costes y obtenemos el presupuesto de ese mes
+y
+este valor luego es muy importante porque veremos también que las técnicas de gestión
+y de monitorización como por ejemplo del valor ganado se utiliza esta información
+a modo de ejemplo
+por ejemplo aquí tenemos una hoja de cálculo en la que
+vemos en esta columna tendríamos las diferentes tareas
+y luego
+en esta fila tendríamos
+el período temporal que hemos escogido el mes
+entoces
+nosotros cada una de las tareas nosotros además la tenemos desglosada temporalmente por ejemplo pues el primer mes
+hemos planificado que nos vamos a gastar mil euros el segundo mes mil euros el tercer mes dos mil euros
+en esta columna digamos tendríamos el total
+del coste planificado el valor planificado para dicha tarea
+veamos la suma
+de los costes de todas las tareas sería el presupuesto planificado nuestro proyecto
+una forma también bastante habitual de presentar
+el valor planificado el presupuesto del proyecto es mediante un diagrama acumulado donde vamos acumulando los costes previstos
+cada mes hasta que tenemos
+el presupuesto total de nuestro proyecto desglosado a lo largo del tiempo
+digamos este elemento como hemos comentado es uno de los elementos fundamentales gestión de proyectos ya que nos
+marca
+los costes para planificados respecto a los cuales monitorizaremos el desarrollo real de nuestro proyecto
+muchas gracias.
