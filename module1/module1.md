@@ -1275,3 +1275,87 @@ digamos este elemento como hemos comentado es uno de los elementos fundamentales
 marca
 los costes para planificados respecto a los cuales monitorizaremos el desarrollo real de nuestro proyecto
 muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Técnica de Gestión del Valor Ganado 
+
+Técnica de Gestión del Valor Ganado
+
+Hola buenas
+el objetivo de este objeto de aprendizaje es describir la técnica de gestión del valor ganado
+o Earned Value Management
+también conocida por sus siglas en inglés EVM
+la técnica de gestión del valor ganado es muy importante en gestión de proyectos ya que lo
+que nos permite controlar simultáneamente el alcance el tiempo y los costos del proyecto es decir
+todo lo que nosotros hemos denominado línea base de nuestro proyecto es decir el núcleo central de nuestro plan de proyecto
+esta técnica se basa en comparar tres magnitudes diferentes
+por un lado está el presupuesto del proyecto o valor planificado que ya se ha comentado en otro objeto de aprendizaje
+y esta variable la vamos a comparar con otras dos variables que vamos a denominar
+el valor ganado y el coste actual y que las voy a definir a continuación
+recordando un poco lo que hemos visto en otro objeto de aprendizaje el valor planificado o presupuesto del
+proyecto sería un desglose de
+por períodos de tiempo
+y por tareas del presupuesto que nosotros hemos planificado
+para cada una de ellas
+en la fila inferior tendríamos el presupuesto
+por unidad de tiempo por ejemplo el presupuesto mensual en enero febrero etcétera
+y en la columna final tendríamos el presupuesto total por tarea
+ahora vamos a definir lo que sería el valor ganado
+el valor ganado digamos representa el valor del trabajo que realmente hemos ejecutado con respecto al valor del trabajo planificado
+esta variable lo que tiene que representar es como una foto que nos indique
+hasta cuánto ha avanzado nuestro proyecto en ese momento
+y por eso es muy importante que seamos capaces de expresarlo
+en unidades que definan el valor del trabajo que hemos realizado hasta el momento
+el valor ganado puede ser bastante complicado de calcular depende de cada caso y el objetivo de
+este objeto de aprendizaje no es entrar en detalles
+de cómo se puede calcular en casos reales complejos
+pero para nosotros el valor ganado vamos a estimarlo simplemente como el porcentaje de trabajo ejecutado
+con respecto al total previsto para dicha tarea
+y a partir de ese porcentaje calcularemos el valor ganado como el valor
+planificado por el porcentaje del trabajo ejecutado
+a modo de ejemplo
+supongamos que por ejemplo la tarea uno
+pues en
+en cada uno de los períodos de tiempo indicamos el porcentaje
+de avance del trabajo del diez por ciento treinta por ciento treinta por ciento etcétera hasta
+que se completa el cien por ciento del trabajo previsto para la tarea
+este valor
+lo vamos a multiplicar por lo que sería el coste total que tenemos planificado para dicha
+tarea en este caso en este ejemplo son cuatro mil euros
+y entonces calculamos lo que sería
+el valor ganado como el tanto por ciento
+ejecutado por el valor por el valor previsto de la tarea que teníamos por ejemplo la tarea uno
+nos saldría cuatrocientos euros
+este cálculo obtenemos de multiplicar el diez por ciento
+por los cuatro mil euros totales
+y de esta forma pues calcularíamos el valor
+ganado
+en cada uno de los períodos de tiempo y para cada una de las tareas
+ahora nos queda definir lo que sería la tercera magnitud que es la que llamamos coste
+actual actual cost por su nombre en inglés
+el coste actual serían los gastos que nosotros realmente hemos realizado es decir que lo que
+lo que denominamos gastos imputados en un determinado periodo de tiempo aquí estamos hablando de temas como las facturas los salarios
+el cálculo del coste actual pues ya tiene que ver con normalmente con los datos que realmente nuestros los sistemas
+contables financieros de un organización
+disponen en los que se van imputando facturas costes etcétera entonces claro esto el cálculo del coste actual bien
+hecho requiere estar coordinado con todos los sistemas informáticos de la organización
+de tipo contable financiero
+a modo de ejemplo aquí hay un ejemplo donde hemos puesto coste el coste que
+realmente nosotros hemos gastado en cada uno de los períodos de tiempo por tarea aquí entendemos por coste
+pues que las horas que realmente se han trabajado al coste ahora que tienen en nuestra organización
+más
+si realmente compramos algún equipo la factura correspondiente etcétera es decir estamos hablando de gastos realmente
+imputados
+cuando hablamos de la técnica del valor
+ganado lo que estamos haciendo es la combinación de estos tres tipos de datos
+es un poco lo que queremos representar en esta gráfica está aquí tenemos el valor planificado el valor ganado
+y el coste actual
+nosotros cuando representamos una gráfica pues supongamos que
+la línea azul es el valor planificado
+estamos representando esto es una gráfica de valores acumulados y estamos al mismo tiempo estamos representando las otras magnitudes
+el valor ganado y coste actual
+un poco
+este tipo de gráfica lo que nos está indicando es si estamos por encima o por debajo tanto
+en costes como en el trabajo ejecutado respecto al que habíamos planificado y por tanto nos
+está dando información
+del avance de nuestro proyecto
+muchas gracias.
