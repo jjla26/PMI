@@ -1359,3 +1359,88 @@ en costes como en el trabajo ejecutado respecto al que habíamos planificado y p
 está dando información
 del avance de nuestro proyecto
 muchas gracias.
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Análisis del Estado de un Proyecto
+
+Análisis del Estado de un Proyecto
+
+Hola buenas
+el objetivo de este objeto de aprendizaje
+es hacer una descripción de una técnica de técnicas que nos permiten analizar el estado de un proyecto
+uno de los elementos básicos de gestión de proyecto como se ha comentado reiteradamente es saber
+si nuestro proyecto se está desarrollando de acuerdo con el plan previsto
+o nos estamos desviando del plan por alguna razón entonces
+en concreto si nos fijamos en lo que es la línea base de nuestro proyecto es decir alcance
+de tiempo y costos
+nosotros nos estamos preguntando
+hemos realizado el trabajo que tenemos previsto hasta el momento
+estamos cumpliendo los plazos previstos
+nos está costando el dinero que tenemos previsto
+entonces es muy importante
+que un jefe de proyecto tenga la capacidad de analizar la información disponible y obtener respuestas a estas preguntas
+entonces la forma de hacerlo es con ciertas medidas basadas en la técnica del valor ganado
+que se ha descrito en otro objeto de aprendizaje
+a continuación vamos a definir
+unos índices unas medidas que nos van a permitir hacer
+estas estimaciones
+en primer lugar vamos a definir
+las schedule variance o
+como la variación del calendario como la diferencia entre lo que es el
+valor ganado y el valor planificado
+acuerdo de acuerdo con esta expresión
+el valor planificado el valor planificado los hemos visto también en otro objeto de aprendizaje
+entonces qué tipo de información nos proporciona esta medida pues esta medida nos dice
+que si es mayor que cero
+es decir que el valor ganado mayor valor planificado
+nos está indicando que el proyecto está adelantado respecto a nuestro plan eso sería una buena noticia
+si este
+valor es menor que cero nos está indicando que el proyecto está retrasado respecto a lo que hemos planificado
+además se define el índice
+de funcionamiento de nuestro calendario
+o performance index como el cociente entre el valor ganado y el valor planificado de
+acuerdo con esta expresión que podemos ver aquí
+es
+esta información es muy parecida a la que acabamos de ver
+lo que pasa es que ahora nos indica digamos más la eficiencia temporal de nuestro proyecto
+si este índice es mayor que uno
+nos indica que le que el proyecto funcione eficientemente respecto al tiempo es decir estamos cumpliendo los plazos incluso con adelanto
+si este índice es menor que uno nos indica una cierta ineficiencia
+en la planificación del tiempo de ejecución del proyecto respecto a ese tiempo
+además vamos a definir otros
+otras variables otros índices que están relacionadas con los costes
+en primer lugar vamos a definir
+la varianza de costo o cost variance
+como la diferencia entre el valor ganado y el coste actual
+de acuerdo con esta expresión que podemos ver aquí
+esto es muy similar a lo que hemos visto antes
+de ahora qué información nos proporciona esta variable
+pues si
+cv es mayor que cero nos indica que el proyecto está por debajo de costes
+y si cv es menor que cero nos indica que el proyecto tiene sobrecostes
+de la misma forma vamos a definir el índice correspondiente como el cociente entre el valor
+ganado y el valor planificado
+que información nos proporciona este índice pues nos indica el grado de eficiencia presupuestaría es decir
+si spi es mayor que uno estamos diciendo que es eficiente
+es decir que nuestro proyecto tiene
+una cierta tendencia ahorrar en costes
+y si spi es menor que uno
+estamos indicando una cierta ineficiencia es decir nuestro proyecto tiene una cierta tendencia a lo que sería al sobrecoste
+a modo de ejemplo
+vamos a representar estos índices
+nosotros en principio nos iríamos calculando para nuestro proyecto
+cv sv cpi spi en concreto en esta gráfica están representados
+el índice de costes y el índice del calendario
+normalmente lo que nos indican estos índices lo que quiero representar aquí es que cuando estos índices
+están por encima es que estamos bien y cuando están por debajo estamos mal
+otra cosa que es importante destacar que este tipo de índices es que normalmente al principio siempre
+suele ser bastante inestable suelen
+suele variar bastante hasta que el proyecto digamos se va consolidando al cabo de unos períodos
+de tiempo donde ya empiezan digamos a marcar lar la tendencia de cómo va el proyecto
+de es decir nosotros no podemos hacer predicciones estimaciones de cómo va a nuestro proyecto hasta
+que no tenemos medidas unas cuantas
+unas cuantas periodos de tiempo nos cuántos períodos esto valores y a partir del momento dado
+estas medidas ya nos está indicando la tendencia de nuestro proyecto va bien
+va por encima o por debajo en este ejemplo digamos que el proyecto iría razonablemente bien tanto tiempo como
+costes porque los dos índices están alrededor de 1 segura por encima iría muy bien si estuvieran por debajo
+iría mal y en este caso es cuando jefe de proyecto debería de tomar medidas para corregirlo
+esto es todo muchas gracias
