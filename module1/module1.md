@@ -1134,3 +1134,69 @@ si además observamos que hay fallos en los entregables problemas de comunicaci�
 muchas veces están relacionados con fallos en nuestra planificación del trabajo que hay que realizar está
 contemplado dentro de la EDT
 esto es todo muchas gracias
+
+# Curso   Introducción a la Gestión de Proyectos   Línea Base de un Proyecto   Planificar el Cronograma del Proyecto
+
+Planificar el Cronograma del Proyecto
+
+Hola buenas
+el objetivo de este objeto de aprendizaje
+es describir
+digamos los procesos básicos para gestionar el tiempo en el proyecto y obtener el cronograma o calendario de
+nuestro proyecto
+los procesos para planificar el tiempo son los siguientes son los que se enumeran aquí pues definir las actividades secuenciarlas
+estimar los recursos estimar a su duración y por último con toda esta información
+desarrollar el cronograma del proyecto vamos a ver un poquito más de detalle
+estos procesos
+la planificación del tiempo del proyecto
+como punto de partida utilizamos la estructura de desglose del trabajo que hemos visto en otro objeto de aprendizaje
+si recordamos la estructura de desglose de trabajo el elemento
+más pequeño sólo que se denominan los paquetes de trabajo
+nosotros lo primero que hacemos en la planificación del tiempo es descomponer estos paquetes de trabajo
+aún nivel todavía más pequeño
+de forma que seamos capaces realmente de estimar
+la duración
+el tiempo que nos va a costar ejecutar cada una de las tareas contenidas
+en este paquete de trabajo poco es
+digamos la descomposición a alto nivel tiene que ver con nuestra comunicación con los interesados
+entregables
+al nivel más bajo la estructura de desglose de trabajo estamos
+diciendo que son adecuadas para desde el punto de vista de la gestión
+y ahora todavía descomponemos a un nivel más bajo de forma que somos capaces
+de estimar con bastante precisión
+lo que el trabajo requerido para ejecutar cada una de las tareas
+una vez hemos definido todas las tareas de nuestro proyecto el siguiente paso sería secuenciarlas
+cuando hablamos de secuenciar lo que queremos decir básicamente
+es que puede haber ciertas restricciones y remarcó lógicas
+hay ciertas áreas que no se pueden ejecutar si no se han realizado previamente otras tareas sólo un
+un poco lo que representaría
+esta flecha en el esquema que sea una restricción lógica a modo de ejemplo para intentar
+explicar lo que quiere decir esto es
+por ejemplo nosotros no podemos empezar a hacer una obra que podría ser esta tarea
+si previamente no hemos realizado una tarea que es solicitar una licencia obtenerla
+eso sería un posible ejemplo veamos cuando hablamos de secuenciar tareas siempre estamos
+buscando condiciones que hacen que unas tareas tendrán que ir antes o después de otras
+vemos una vez hemos secuenciado todas las tareas de nuestro proyecto
+y el siguiente paso es cada tarea
+digamos tenemos que en primer lugar estimar los recursos que necesitamos para llevarla a cabo
+los recursos puede que personal hace falta cuando hablamos de personal pues estamos hablando
+de determinados perfiles aquí es muy importante
+si estamos trabajando una organización
+cuando esos recursos están disponibles porque probablemente nuestro proyecto no es el único que está la organización
+entonces
+cuando ese personal estará disponible para ejecutar esta tarea no condicionará
+el calendario
+digamos un poco estimando estos recursos
+una que nos de los recursos podemos estimar la duración bueno nosotros pensamos que para ejecutar esta tarea
+tal persona con tal perfil necesita tanto tiempo para para realizar dicha tarea
+eso sería básicamente lo que estamos
+hablando cuando como cuando hablamos de estimar la duración del proyecto
+y con toda esta información digamos hemos llegado a nivel de descomposición de tareas
+hemos estimado la duración de cada tarea
+hemos establecido restricciones lógicas de que determinadas tareas tienen que ir
+antes o después de otras con todo esto
+construimos lo que denominamos el cronograma del proyecto calendario del proyecto
+aquí en este ejemplo podemos utilizar una herramienta
+que Microsoft Project que nos permite
+generar el diagrama de Gram del proyecto que es el cronograma de nuestro proyecto
+muchas gracias.
