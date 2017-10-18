@@ -165,3 +165,63 @@ pues este proceso implica conocer diferentes tipos de relaciones lógicas
 las dependencias entre ellas los conceptos de adelantos y atrasos entre tareas
 y todos estos conceptos se describen en este objeto de aprendizaje
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Procesos de Gestión del Tiempo de un Proyecto   Estimar los Recursos de las Tareas
+
+Estimar los Recursos de las Tareas
+
+Hola buenas
+en este objeto de aprendizaje vamos a describir el proceso que permite estimar los recursos de las tareas de un proyecto
+de acuerdo con el project management institut
+nosotros partimos de que nuestro proyecto lo tenemos descompuesto en un conjunto de tareas
+y la definición de tarea es que nos permitan gestionarlas es decir que seamos capaces de estimar recursos
+para realizar dicha tarea
+que entendemos por recursos en principio recursos son personas un
+son personas que tienen que ejecutar
+los trabajos previstos para realizar esta tarea luego será muy importante
+su conocimiento sus habilidades su experiencia pero cuando hablamos de recursos también podemos hablar de maquinaria podemos hablar
+de equipos informáticos el concepto de recurso es más amplio que lo que sería propiamente dicho
+personal únicamente
+entonces nuestro objetivo lo que se pretende es que cada una de las tareas
+tenemos que estimar todos los recursos que nos hacen falta para completarlo
+por lo tanto cuando queremos estimar los recursos que requiere nuestras tareas
+es muy importante que conozcamos los recursos que dispone nuestra organización
+en el caso de personas pues debemos de conocer
+sus habilidades experiencia sus conocimientos es decir tenemos que saber si son capaces
+de realizar las tareas que nosotros
+necesitamos que realicen en nuestro proyecto
+también es muy importante
+conocer los calendarios de recursos de nuestra organización
+normalmente la mayoría de las organizaciones los recursos de los que disponen son limitados
+ y normalmente también están comprometidos en otros proyectos una organización no hay un único proyecto
+entonces
+claro nosotros podemos planificar nuestro proyecto para decir quiero ejecutar esta tarea que requiere estos recursos
+con estos perfiles en estas fechas
+pero probablemente hay otros proyectos que simultáneamente
+puedan requerir esos recursos por lo tanto es muy importante coordinarse con el resto de proyectos de la organización
+a modo de ejemplo en este esquema pues queremos representar una ciertos proyectos
+antes de que nosotros hayamos asignado
+estos recursos a nuestro proyecto por ejemplo en este caso nosotros diríamos para la tarea a necesita
+un determinado perfil en este caso un analista
+y quizá el único perfil que dispongo
+analista no está libre hasta febrero por lo tanto
+a la hora de ejecutar esta tarea
+no podré realizar lo mínimo hasta esta fecha pero además
+las tareas entre sí tienen dependencias por ejemplo en este caso se muestra en la tarea b
+y la tarea c
+no se pueden realizar hasta que no se ha finalizado la tarea
+por lo tanto
+aunque dispongamos de recursos en otras fechas
+para realizar la tarea c o tarea b como una restricción no podremos comenzarla
+hasta que no haya terminado la tarea a
+entonces lo que quiero mostrar es que el calendario de recursos de nuestra organización condiciona de manera muy importante
+el calendario
+que nosotros
+podremos aplicar en nuestro proyecto
+como resumen
+podemos decir que este objeto de aprendizaje describe el proceso de estimar los recursos requeridos para
+realizar un proyecto entendiendo por recursos las personas materiales equipos etcétera
+este proceso implica conocer los perfiles y calendarios de los recursos de la organización
+y además requiere que coordinemos estos recursos con otros proyectos que existan en la organización
+muchas gracias.
+
