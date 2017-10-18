@@ -225,3 +225,57 @@ este proceso implica conocer los perfiles y calendarios de los recursos de la or
 y además requiere que coordinemos estos recursos con otros proyectos que existan en la organización
 muchas gracias.
 
+# Curso   Gestión del Tiempo de un Proyecto   Procesos de Gestión del Tiempo de un Proyecto   Estimar la Duración de las 
+
+Estimar la Duración de las Tareas
+
+Hola buenas el objetivo de este objeto de aprendizaje es describir el proceso que nos permite
+estimar la duración de las tareas del proyecto
+según el projecto management institut
+en qué consiste este proceso pues
+básicamente pues consiste en estimar el tiempo que requiere
+la realización de cada una de las tareas de nuestro proyecto
+es importante que recalcar que estamos hablando de tiempo pero unidades de trabajo
+porque siempre los proyectos se ejecutan sobre un calendario laboral
+entonces este tiempo se refiere unidades de trabajo no unidades temporales normales
+una cosa muy importante
+que nosotros esta estimación de la duración temporal de las tareas
+es muy importante que realicemos con la mayor precisión posible
+por qué pues porque
+porque muchas veces los proyectos al  haber muchas tareas unas dependen de otras
+generalmente están sujetos a contratos quizá haya penalizaciones por  la finalización
+fuera de plazo
+entonces la estimación correcta
+o lo más correcta posible
+de la duración de estas tareas es un trabajo muy importante para un jefe de proyecto
+para un project manager
+entonces como se realiza una estimación precisa pues básicamente a partir de la experiencia del propio projecto manager
+a veces hay que recurrir a expertos o quizá la propia empresa en sus activos
+entendemos por activos
+por información que tenemos de cómo se han realizado otros proyectos
+y sabemos cuánto
+nos acostado ejecutar tareas similares en proyectos parecidos toda esa información
+en conjunto es la que se utiliza para intentar estimar
+la duración de estas tareas de la mejor forma posible
+a modo de esquema
+pues nosotros tenemos las tareas de nuestro proyecto
+hemos estimado los recursos por las personas equipos
+conocemos incluso los calendarios laborales porque sabemos cuando cada persona o cada equipo estará disponible
+para poder realizar esa tarea a veces el mismo
+una misma tarea
+realizada por una persona
+con un perfil de gran experiencia
+le cuesta mucho menos realizarla que otra persona con menos experiencia por lo tanto
+el recurso particular que va ejecuta la tarea también nos condiciona la duración
+con toda esta información nosotros
+intentamos estimar la duración de cada una de las tareas de la forma más precisa posible
+globalmente pues en nuestro proyecto está descompuesto
+a nivel de paquetes de trabajo lo que sería la estructura de desglose de trabajo
+cada paquete de trabajo a su vez está descompuesto en tareas y cada tarea
+tenemos información de que recursos requiere y cuántas horas de trabajo
+para realizar esa tarea
+entonces como hemos comentado es más una información relacionada con el recurso particular
+que va a ejecutar la tarea
+como resumen podemos decir que este objeto de aprendizaje hace una descripción del proceso de estimar
+la duración de las tareas de un proyecto
+muchas gracias.
