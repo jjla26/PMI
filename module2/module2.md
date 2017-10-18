@@ -279,3 +279,51 @@ que va a ejecutar la tarea
 como resumen podemos decir que este objeto de aprendizaje hace una descripción del proceso de estimar
 la duración de las tareas de un proyecto
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Procesos de Gestión del Tiempo de un Proyecto   Desarrollar el Cronograma
+
+Desarrollar el Cronograma
+
+Hola buenas el objetivo de este objeto de aprendizaje es describir el proceso
+para desarrollar el cronograma de un proyecto
+cuando nosotros planificamos un proyecto
+normalmente tenemos que planificar básicamente tres aspectos
+lo que sería alcance es decir que es lo que tenemos que hacer
+el tiempo que nos va a costar hacer esos trabajos
+y luego el presupuesto o los costos
+de ese proyecto
+cuando estamos hablando del cronograma de un proyecto estamos en particular centrándonos en lo que
+sería la planificación temporal de nuestro proyecto
+la planificación temporal
+consiste en realizar una serie de procesos de manera secuencial e iterativa
+normalmente tenemos que partir
+del trabajo que tenemos que hacer las tareas las tareas de nuestro proyecto
+luego las ordenamos en el tiempo las secuenciamos introducimos restricciones lógicas entre ellas
+para cada una de las tareas estimamos los recursos que se requieren para realizarla
+para cada tarea y luego tenemos que estimar cuánto tiempo nos va a costar hacerla
+y utilizar esta información desarrollamos lo que sería un cronograma que es
+poner todas nuestras tareas sobre un calendario temporal sobre un calendario de tipo laboral
+nos da la información de cuando comience cuando termina cada una de las tareas
+resultado de lo que sería este proceso
+obtenemos lo que sentir lo que se conoce por un cronograma cronograma no es más que
+pues una serie de tareas
+donde nosotros vemos la duración de cada una de las tareas la estimación que tenemos de ella
+tenemos fechas de comienzo fechas de fin tenemos relaciones de precedencia entre ellas y todo esto se pone
+se muestra en diagrama se conoce como diagrama Grantt
+donde pues tenemos los diferentes hitos y tareas de nuestro proyecto las relaciones
+entre ellas que tarea va después de que tarea
+y globalmente sobre nuestro calendario laboral que podemos ver que es laboral porque por ejemplo en este caso
+los fines de semana no se cuentan como horas de trabajo
+para realizar las tareas
+aparece desglosado todo nuestro proyecto empieza una fecha finalizan otra fecha
+esto lo que se entiende por un cronograma para realizar los cronogramas existen diferentes herramientas
+como puede ser el microsoft project en este caso otras más que existen
+a modo de resumen podemos decir que este objeto de aprendizaje
+describe el proceso que permite definir y desarrollar el cronograma de un proyecto
+importante
+remarcar que el proceso de generar un programa se realiza iterativamente
+normalmente en una primera iteración nosotros vamos definiendo las tareas asignando recursos secuenciandolas
+y generamos una primera versión del cronograma pero normalmente esta primera versión del programa y luego tenemos que repetirla
+varias veces hasta que conseguimos un programa relativamente preciso
+y es lo que denominaremos después línea base temporal de nuestro proyecto
+muchas gracias.
