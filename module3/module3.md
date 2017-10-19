@@ -247,3 +247,139 @@ y por último simplemente comentar las diapositivas que se han utilizado en esta
 se pueden encontrar y descargar en la página de es la slidshare
 cuya dirección aparece aquí
 muchas gracias.
+
+# Curso   Gestión de Riesgos de un Proyecto   Conceptos Básicos de Gestión de Riesgos   Planificar la Gestión de Riesgos
+
+Planificar la Gestión de Riesgos
+
+Hola buenas mi nombre es Alberto Palomares Chust
+soy profesor del departamento de sistemas informáticos de la universidad politécnica de valencia
+imparto mis clases en la escuela politécnica superior de gandía
+objetivo de este objeto de aprendizaje
+es que los alumnos entiendan y sean capaces de aplicar en proyectos sencillos
+las recomendaciones
+que se describen en el proceso denominado planificar la gestión del riesgo
+de acuerdo con las metodologías del project management institute
+de PMI
+del que podemos encontrar más información en la dirección web que aparece aquí
+vamos a analizar
+de manera breve lo que significa este proceso desde el punto de vista del PMI
+de acuerdo con la definición
+del propio PMI
+este proceso consiste en definir
+cómo se realizan las actividades de gestión del riesgo en el proyecto
+vamos un poco analizar
+el contenido de este proceso
+lo primero que quiero destacar
+es que esto sería lo que podríamos denominar un plan estratégico de alto nivel
+y que quiere decir
+estratégico pues en este caso cuando estamos hablando de estratégico
+es porque es un plan
+en el que se está definiendo como estrategia de gestión de riesgos en el proyecto
+y la estrategia de gestión de riesgos en muchos casos
+se realiza a nivel de la organización, endremos la organización la que estamos
+trabajando de realizar nuestro proyecto es una empresa o un organismo público muchas veces la gestión de riesgos
+se define a un nivel superior a lo que sería la propia gestión del proyecto realizada por el proyect manager
+entonces la organización a la hora de
+de planificar la gestión del riesgo de alto nivel pues es la que puede definir las líneas maestras
+las líneas generales las directrices que el proyect manager debe de seguir para planificar el riesgo en un proyecto en
+particular
+un poco la planificación de la gestión del riesgo este proceso sería como la parte de alto nivel que
+el proyect manager pues debe de seguir para el proceso
+en su proyecto particular
+a la hora de
+de hacer un plan estratégico de riesgos una organización pues muchas veces pues depende de la
+importancia del proyecto es un proyecto muy importante
+económica o estratégicamente para la organización
+pues seguramente
+le dará más importancia a la gestión del riesgo en el proyecto
+por lo tanto el tema de los recursos asignados es decir
+que personas dedicarán su tiempo su trabajo o a la gestión del riesgo en este proyecto
+las herramientas a utilizar muchas veces las propias organizaciones
+disponen de plantilla las herramientas
+y una serie de elementos que ayudan a la gestión del riesgo
+son los que definen incluso las relaciones con otros procesos de todo el con el área
+del proyect manager etcétera
+por lo tanto también lo podemos considerar como un
+proceso
+previo de planificación quiero decir
+si la planificación del riesgo es un proceso de planificación
+pero entendamos previo como previo a lo que sería la planificación específica de un proyecto particular
+en este proceso además
+hay una serie de elementos que
+que tienen que estar establecidos antes de realizar la planificación de riesgo propiamente dicho del proyecto que serían por ejemplo
+las reservas de contingencia es decir
+qué porcentaje a lo mejor de presupuesto o de tiempo se puede reservar para
+para el riesgo
+algunas tareas específicas del proyecto que quizá requiere mayor atención para la gestión del riesgo por sus características
+quienes son los responsables de gestión del riesgo
+los dependiendo del ciclo de vida del proyecto por internet momentos responsables pueden ser unos pueden ser otros
+muy importante el tema de las comunicaciones con interesados patrocinadores
+todo el tema del riesgo es muy importante que se comunique bien en el entorno del proyecto
+porque muchas veces de esto dependerá el éxito de nuestro proyecto hay temas como la tolerancia
+al riesgo hasta qué punto los organización admite que nuestros proyectos tengan más o menos riesgo
+en general todos los procesos del
+proyect manager según el PMI
+están definidos de forma que sus entradas es decir
+lo que hace falta para realizar y ejecutar este proceso normalmente son las salidas de otros procesos previos que se han realizado
+durante el ciclo de vida del proyecto
+en concreto para este proceso
+para la planificación de la gestión del riesgo
+los elementos que son entradas básicos son en primer lugar
+los planes de gestión
+sobre todo los principales en los que se define la línea base del proyecto de alcance cronograma y presupuesto
+simplemente creo recordar que la gestión del riesgos del punto de vista del PMI
+es el riesgo
+que afecta a los objetivos básicos del proyecto no se riesgo el riesgo generales sólo y
+específicamente que afecta a los objetivos básicos
+por lo tanto es lógico que los planes de gestión básico sean
+el punto de entrada básico para realizar
+la planicación de la gestión del riesgo
+y en estos elementos pues el acta de constitución del proyecto muchas veces en la propia
+creación del proyecto ya se pueden dar algunos detalles básicos sobre aspectos que pueden
+tener cierto riesgo incertidumbre nuestro proyecto
+muy importante los interesados
+porque muchas veces el riesgo de un proyecto tiene que ver con las personas que están alrededor patrocinadores o
+clientes
+y su
+y el riesgo que son capaces de tolerar lo que sean factores ambientales de la organización
+los propios activos de la organizacion de la propia organización
+con la experiencia acumulada de otros proyectos pues tiene información sobre cómo
+que posibles riesgos pueden afectar a determinado tipo de proyectos como actuarán
+en consecuencia etcétera
+en particular si nos fijamos en lo que serían los activos de la organización
+pues hay elementos que
+que de forma muy general podrían
+estar disponibles y que nosotros en un proyecto particular podríamos utilizar para planificar la gestión de riesgo nuestro proyecto pues
+las categorías de riesgo en una organización en particular pues hay determinados tipos de riesgo que ya están
+analizados categorizados
+y entonces esa información nosotros vamos a aprovechar nuestro proyecto hay temas de definiciones lenguaje común es muy importante siempre
+los temas de
+proyect manager el lenguaje común para entendernos
+en el propio entorno del proyecto y con
+alrededor del proyecto nuestra propia organización con los clientes es importantísimo
+formatos plantilla roles y responsabilidades
+muy importante también los niveles de autoridad y toma de decisiones
+ante un determinado riesgo que aparece en el proyecto
+quien tiene autoridad y toma decisiones que pueden ser a lo mejor muy importantes a veces una decisión
+ a veces las decisiones pueden llegar hasta detener el proyecto o por alguna causa externa
+imprevista por la incertidumbre
+lecciones aprendidas que son
+lo que hemos aprendido otros proyectos
+como resultado de este proyecto pues
+las salidas pues propiamente sería como la metodología los roles el presupuesto las categorías
+las definiciones de probabilidad e impacto
+hay elementos como lo que se denomina las matrices de probabilidad e impacto de riesgo las tolerancias
+al riesgo los formatos
+como realizar seguimiento un poco sería toda esta información es la que nos va a permitir
+deberá realizar la planificación
+propiamente dicha que serían otros procesos del proyect manager
+como propuesta actividad de aprendizaje pues los alumnos tienen que redactar por escrito como lo que serían
+los aspectos básicos de
+de una planificación de gestión del riesgo de un proyecto sencillo
+el proyecto las herramientas por seleccionar propio alumno según su criterio
+y como resumen podemos decir que en este objeto
+de aprendizaje hemos revisado lo que sería la planificación de la gestión del riesgo de un proyecto
+y las diapositivas que se han utilizado
+se pueden encontrar en la página de slideshare en esta dirección que aparece aquí
+muchas gracias.
