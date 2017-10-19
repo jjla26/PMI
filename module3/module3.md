@@ -146,3 +146,104 @@ y también comentar las tipo diapositivas que se han utilizado
 se pueden encontrar en la página es la slideshare
 que aparece aquí la dirección y se pueden descargar para acompañar la visión del vídeo
 muchas gracias.
+
+# Curso   Gestión de Riesgos de un Proyecto   Conceptos Básicos de Gestión de Riesgos   Procesos de Gestión del Riesgo
+
+Procesos de Gestión del Riesgo
+ 
+Hola buenos días mi nombre Alberto Palomares Chust y soy profesor del departamento de sistemas informáticos y computación
+de la universidad politécnica de valencia e imparto mis clases en la escuela politécnica superior de gandía
+el objetivo de este objeto de aprendizaje es que los alumnos identifiquen
+los diferentes procesos de gestión del riesgo
+y además
+entiendan
+cuando se deberían aplicar estos procesos
+durante el ciclo de vida de un proyecto
+de acuerdo pues con las recomendaciones que hace el project management institute
+que es la principal organización a nivel mundial en gestión de proyectos
+y posible podemos encontrar más información respecto a esta organización en esta dirección
+de acuerdo con el PMI
+los seis procesos
+de conocimiento denominada gestión de riesgos son los siguientes
+planificar la gestión de riesgos identificar los riesgos
+realizar el análisis cualitativo de riesgos análisis cuantitativo de riesgos planificar la respuesta a los riesgos y controlar
+los riesgos
+nosotros aquí podemos distinguir entre por ejemplo el primer proceso planificar la gestión de riesgos
+este es un proceso vamos a denominar previo aunque está incluido en la fase de planificación
+con previo quiero decir que es un proceso donde
+donde se prepara lo que sería el plan de gestión de riesgos
+después los siguientes cuatro procesos identificar los riesgos realizar el análisis cualitativo o cuantitativo planificar la respuesta a riesgos
+estos serían los que se incluyen en la fase de planificación de los riesgos del proyecto propiamente dicho
+y
+por último el último proceso controlar los riesgos
+este es un proceso que se desarrolla durante la fase de ejecución del proyecto
+que cuando uno esta ya ejecutando su proyecto y entonces tiene que revisarse alguno de los
+riesgos identificados aparecen o no identificados y tomar las medidas que corresponda en ese momento
+entonces nos vamos a centrar ahora de momento un poco lo que serían los cuatro procesos
+básicos
+de la planificación del riesgo propiamente dicho
+que serían identificar los riesgos realizar análisis cualitativo el análisis cuantitativo y planificar la respuesta a los riesgos
+y vamos a ver cómo debemos de aplicar estos procesos
+de acuerdo con el project management institute
+estos procesos hay que realizarlos secuencial e iterativamente
+secuencial pues quiere decir que se ejecutan en el orden que aparece aquí nosotros primero identificamos
+los riesgos del proyecto
+a continuación hacemos el análisis cualitativo de estos riesgos a continuación hacemos el análisis cuantitativo de estos riesgos
+y por último pues planificamos la respuesta a estos riesgos
+e
+iterativo
+eso quiere decir que este proceso pues hay que repetirlo
+varias veces las que sea necesario
+hasta que el plan de riesgos está completado esto es muy similar a otra las
+fases de planificación del proyecto
+que se realizan siempre progresivamente secuencial e iterativamente
+porque cuando uno empieza planificar un proyecto inicialmente tiene poca información y conforme pues va detallando describiendo
+los diferentes objetivos del proyecto esta información va aumentando y hace que haya que revisar
+aspectos que previamente se hayan tenido en cuenta con mucha incertidumbre correlacionada con la incertidumbre del proyecto
+pues conforme nosotros vamos a teniendo más información
+podemos detallar mejor nuestro plan de proyecto y en la parte del riesgo ocurre lo mismo
+esto es lo que estoy comentando en este momento
+la información sobre un proyecto pues va evolucionando durante todo el ciclo de vida del proyecto
+en la fase de planificación pues inicialmente
+nosotros tenemos muy poca información pues partimos de
+de unos objetivos muy básicos del alcance del proyecto y poco a poco los tenemos que ir desarrollando
+conforme nos vamos desarrollando vamos teniendo
+vamos planificado los
+las tareas que hay que hacer el cronograma presupuesto muchas veces estas tareas
+al planificarlas
+nos damos cuenta que hay cosas que previamente pues habíamos tenido en cuenta de forma con mucha incertidumbre pues
+vamos mejorando el conociendo sobre las mismas
+reescribimos nuestro plan e iteramos varias veces con la gestión de riesgos pase exactamente lo mismo
+hasta que llega un momento que nosotros tenemos un plan de riesgos
+no es perfecto pero es lo mejor que nosotros hayamos podido planificar con la información que tenemos
+y luego cuando ésta la fase de ejecución el proyecto se está desarrollando y entonces muchas de estas incertidumbres
+sucede o no sucede
+hay variaciones en el proyecto hay variaciones que hay en el plan de proyecto puede haber
+muchas cosas que varíen durante la fase de ejecución
+y por lo tanto nuestro plan de riesgos y en general el plan del proyecto pues
+tenemos que revisarlo pues todas las veces que sea necesario
+siempre
+tenemos que tener en cuenta que el plan de proyecto es
+una herramienta formal es decir que un poco lo que describe el plan de proyecto se debe
+se debería cumplir a rajatabla y solo se modifica el proyecto
+ante cambios sustanciales impliquen
+que impliquen modificaciones importantes en el mismo y que además deben de estar probados
+normalmente por otros niveles de organización superiores a lo que sería el propio entorno del proyecto
+presiones revisarlos revisa
+entoces como propuesta de actividad de aprendizaje
+los alumnos lo que deben hacer es redactar pero por escrito
+los procesos que hemos descrito en este objeto y además el orden el que se tienen que aplicar
+este objeto de aprendizaje básicamente consiste en aprender unos conceptos básicos aprender en el ciclo de vida cuando se aprendan
+y ya en
+en otro objeto de aprendizaje
+se puede describir con más detalle estos procesos
+por último para terminar esta actividad los alumnos deberán visionar el vídeo de nuevo y corregir y completar lo
+que han escrito previamente
+resumen podemos decir que en este objeto de aprendizaje
+hemos revisado los procesos de gestión de riesgo de un proyecto
+y su aplicación durante el ciclo de vida del proyecto
+de acuerdo con las metodologías que propone el project management institute
+y por último simplemente comentar las diapositivas que se han utilizado en esta presentación
+se pueden encontrar y descargar en la página de es la slidshare
+cuya dirección aparece aquí
+muchas gracias.
