@@ -395,3 +395,4 @@ y tareas
 como resumen podemos decir que este objeto de aprendizaje hemos visto los hitos y tareas de un proyecto
 y cómo se configuran con la herramienta project dos mil siete
 muchas gracias.
+
