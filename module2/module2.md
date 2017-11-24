@@ -327,3 +327,71 @@ y generamos una primera versión del cronograma pero normalmente esta primera ve
 varias veces hasta que conseguimos un programa relativamente preciso
 y es lo que denominaremos después línea base temporal de nuestro proyecto
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Elaboración del Cronograma (Project 2007)   Hitos y Tareas
+
+Hitos y Tareas
+
+Hola buenas el objetivo de este objeto de aprendizaje es describir los conceptos de tarea e hito
+y cómo se realiza su configuración con la herramienta project 2007
+en primer lugar voy a describir lo que sería el proceso y después lo veremos en la propia herramienta
+normalmente a la hora de configurar los hitos y tareas de un proyecto en primer lugar
+hay que ir introduciendo los nombres de los diferentes hitos y tareas
+después hay que introducir la duración de dichos hitos y tareas normalmente la duración se hace
+en períodos laborales en horas en días en meses
+por defecto la herramienta proyect dos mil siete veremos utilizamos signo que se interrogante
+para indicar que es una estimación es decir que no conocemos el valor exacto de una tarea
+y en particular veremos que para marcar
+determinadas tareas como hitos
+utilizaremos que su duración es cero
+hay que quiero explicar que una tarea en principio cualquier actividad que realizamos nuestro proyecto que
+tiene una determinada duración
+en el período en el calendario laboral mientras que un hito es un evento especial que nosotros señalamos
+en nuestro calendario
+y hacemos indicando que su duración es cero
+vamos a ver a continuación cómo se realiza
+la configuración de los hitos y tareas en el project dos mil siete
+cuando nosotros abrimos un documento del project dos mil siete
+podemos observar que en la zona de trabajo en la parte de la izquierda
+aparecen unas tablas en las que nosotros podemos configurar los nombres de las diferentes tareas y duraciones
+etcéteras como vamos a ver a continuación
+lo primero que hacemos
+es añadir los nombres de las diferentes tareas
+en este caso esta tarea uno atarea dos tarea tres y en
+cuando nosotros conforme añadimos cada una de las tareas vemos que el calendario laboral que aparece
+en la parte de la derecha de la ventana de trabajo
+nos aparecen estas barras
+nos indicarían la duración de cada una de las tareas por defecto
+lo que no simplemente componer el nombre de una tarea lo que nos pone la herramienta
+es que su duración es de un día
+y además nos añade signo interrogante
+para indicar que es una estimación es decir por defecto simplemente por poner los nombres de
+los hitos y tareas
+nos aparece todas sus duraciones un día
+a continuación lo que nosotros tenemos que hacer es definir
+la duración de cada una de estas tareas como lo hacemos pues por ejemplo
+en este caso hemos puesto que la tarea uno dura cinco días la tarea dos dura diez días
+la tarea tres dura siete días
+lo que podemos ver como resultado de nuestra acción de poner la duración
+la anchura de las barras
+tiene en cuenta justo la duración también es importante que veamos que esta duración
+es en días laborables por ejemplo
+nosotros aquí vemos que la tarea
+dura siete días
+pero en el calendario si contáramos los días reales son más de siete días ya que
+el fin de semana no cuenta como días laborables
+es importante que tengamos en cuenta que las las duraciones de las tareas de nuestro proyecto
+se refieren siempre un calendario laboral
+si nosotros queremos marcar que una determinada tarea es un hito
+lo que indicamos es que su duración son cero días como podemos ver aquí
+cuando nosotros marcamos una tarea como hito
+vemos que el signo que utiliza project dos mil siete para marcarlo en el calendario laboral cambia
+en lugar de ser una barra es este punto este cuadro que aparece aquí
+que indica que es un evento especial en nuestro proyecto
+además nosotros podemos comprobar que si nos ponemos con nuestro ratón encima de una de las barras de cualquiera de ellas
+nos dará la información sobre esa tarea esa información es la misma que podemos encontrar
+en la parte de la izquierda en el menú donde hemos configurado todas las opciones de nuestros hitos
+y tareas
+como resumen podemos decir que este objeto de aprendizaje hemos visto los hitos y tareas de un proyecto
+y cómo se configuran con la herramienta project dos mil siete
+muchas gracias.

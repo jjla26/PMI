@@ -1444,3 +1444,4 @@ va por encima o por debajo en este ejemplo digamos que el proyecto iría razonab
 costes porque los dos índices están alrededor de 1 segura por encima iría muy bien si estuvieran por debajo
 iría mal y en este caso es cuando jefe de proyecto debería de tomar medidas para corregirlo
 esto es todo muchas gracias
+
