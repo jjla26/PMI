@@ -396,3 +396,92 @@ como resumen podemos decir que este objeto de aprendizaje hemos visto los hitos 
 y cómo se configuran con la herramienta project dos mil siete
 muchas gracias.
 
+# Curso   Gestión del Tiempo de un Proyecto   Elaboración del Cronograma (Project 2007)   Vincular Tareas
+
+Vincular Tareas
+ 
+Hola buenas el objetivo de este objeto de aprendizaje es describir el concepto de vínculo entre tareas
+y cómo se realiza su configuración con la herramienta project 2007
+cuando nosotros
+en una
+en un diagrama de tareas de project 2007 hemos introducido una serie de tareas con sus duraciones
+lo que podemos observar es que bueno en principio estas tareas no tienen ninguna vinculación entre ellas
+entoces como incluimos estos vínculos entre tareas por la forma de hacerlo es en la columna que se denomina
+predecesoras donde nosotros lo que le indicamos
+es cada tarea
+en son sus predecesoras
+a modo de ejemplo si por ejemplo
+estamos diciendo que la tarea
+número
+dos identificador número dos que queremos que hemos denominado tarea número uno su predecesora es la tarea
+número uno
+es importante que aquí señalemos
+que el número que nosotros introducimos en la columna predecesoras se refiere al identificador que aparece
+en la columna más a la izquierda del diagrama
+no se refiere a que en el nombre de la tarea por ejemplo aparezca en este caso
+tarea uno
+cuando nosotros aquí estamos indicando que la predecesora es
+la número uno
+vamos a referirnos al número uno
+este como estoy señalando es decir la tarea denominada start
+es decir lo importante es el identificador de la tarea no el nombre que puede tener en este caso un número
+en realidad no hace referencia al identificador que explícitamente utiliza project para configurar estos
+las relaciones entre las tareas
+vamos a ver el resultado
+de introducir este vínculo
+lo que podemos observar
+es que aparece esta flecha
+que nos une
+el hito denominado start con la tarea denominada número uno ya que hemos indicado que la tarea número uno su predecesora
+es
+el hito cuyo identificadores es el uno
+de la misma forma nosotros podríamos ir añadiendo el resto de vínculos entre todas las tareas hitos de nuestro
+proyecto
+a modo de ejemplo pues hemos añadido aquí diferentes relaciones de vinculación entre las tareas
+que en este ejemplo se muestran
+normalmente en un diagrama
+de un proyecto bien hecho suele empezar con un hito que se denomina start y suele
+finalizar con un hito que se denomina end
+el hito que se denomina start no suele tener ninguna precedencia
+mientras que el hito que se denomina end no suele tener nada después y en medio están toda
+las tareas hitos de nuestro proyecto
+que si el diagrama esta bién hechos pues todos tienen que tener relaciones es decir van después de alquien y terminan en
+alguien
+si nosotros queremos ver un poquito una información más detallada sobre estos vínculos
+si nosotros vamos doble clic en el identificador de la tarea
+nos aparece esta ventana
+con diferente información sobre la tarea sobre sus relaciones
+en concreto si nosotros vamos a apartado predecesoras
+nos aparece esta tabla donde aparecen explícitamente
+todas las relaciones todos los vínculos que hay de esta tarea con otras en concreto en este caso
+vemos que esta tarea tenía una relación de vínculo
+con la tarea número llamada tarea número uno
+y con una relación de tipo fin a comienzo es decir
+esta tarea la tarea dos llamada número dos
+empezará justo cuando termine la tarea denominada tarea uno
+nosotros también podemos
+configurar en esta
+en esta ventana otro tipo de relaciones de vínculos entre tareas por ejemplo
+aparte era defina comienzo que es la más habitual pues existen otras relaciones como comienzo a comienzo
+fin fin etcétera
+a modo de ejemplo vamos a ver qué ocurriría si por ejemplo ponemos una relación de tipo comienzo a comienzo
+en este caso lo que podemos ver
+tal y como se muestra aquí
+es que
+la flecha ahora que vincula las dos tareas
+va desde la parte izquierda de esta tarea que nos indica al comienzo a la parte izquierda
+de esta tarea que nos indica su comienzo es decir aquí estaríamos diciendo que las dos tareas
+empezarían simultáneamente
+en la columna predecesora además vemos que aquí
+además del número
+que nos indica tiene su predecesora nos aparecen las letras cc que indican que es un tipo
+de vínculo diferente al de fin a comienzo que es más habitual
+si por ejemplo
+entramos de nuevo cambiáramos el tipo de vínculo pusiéramos de tipo fin a fin pues lo que
+observaríamos es lo que aparece aquí
+veríamos que la flecha sale de la parte de la derecha de esta tarea a la parte
+de la derecha de esta tarea es decir del fin de una tarea hasta el fin de otra
+aquí lo que estaríamos indicando es que esta tarea no puede finalizar hasta que no finalice otra
+como resumen podemos decir que en este objeto de aprendizaje
+hemos visto el concepto de vínculos entre tareas de un proyecto y hemos visto cómo se configuran en project 2007
+muchas gracias.
