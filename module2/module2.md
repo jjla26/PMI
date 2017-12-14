@@ -485,3 +485,76 @@ aquí lo que estaríamos indicando es que esta tarea no puede finalizar hasta qu
 como resumen podemos decir que en este objeto de aprendizaje
 hemos visto el concepto de vínculos entre tareas de un proyecto y hemos visto cómo se configuran en project 2007
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Elaboración del Cronograma (Project 2007)   Adelantos y Atrasos entre Tareas
+
+Adelantos y Atrasos entre Tareas
+
+Hola buenas el objetivo de este objeto de aprendizaje es describir los conceptos de adelanto o atraso de tareas
+y cómo se realiza su configuración con la herramienta project 2007
+cuando nosotros en un diagrama de tareas de un proyecto tenemos definidas nuestras tareas nuestros hitos las relaciones
+entre las tareas
+cuáles son las predecesoras de cada tarea es decir los vínculos
+en principio pues tenemos un diagrama como el que se muestra aquí
+en este caso las relaciones de vínculo entre tareas son todas del tipo fin a comienzo es decir
+finaliza una tarea comienza la siguiente que está vinculada
+y en principio estas
+estos vínculos lo que nos indican es que la tarea sucesora
+comienza inmediatamente después que finaliza la tarea predecesora bueno eso lo podemos ver en el diagrama
+porque temporalmente termina una pieza la siguiente
+pero nosotros en muchos casos en un proyecto lo que nos interesa
+es establecer periodos por ejemplo para realizar alguna análisis algún trabajo previo a comenzar la siguiente
+tarea entre esos puede interesar no comenzar inmediatamente después es decir queremos introducir
+un cierto retraso en otros casos sucede al revés
+aunque hay una vinculación entre final de una tarea y el comienzo de la siguiente nos puede interesar
+empezar la tarea siguiente un poco antes cuando ya las condiciones de trabajo nos permiten hacerlo
+y adelantar el proyecto globalmente
+como realizamos esto pues
+si nosotros
+hacemos doble clic en el identificador de una tarea
+nos aparece desplegado
+esta ventana donde nosotros podemos configurar diferentes opciones
+de esa tarea y sus relaciones en concreto si entramos en el apartado predecesoras
+nos aparece la información sobre la relación de vínculo que existe entre esta tarea y su predecesora
+en este caso es simplemente una vinculación de tipo fin a comienzo
+y podemos observar
+que en la columna
+de la derecha
+denominada poos
+nos aparece aquí cero de cero días
+este es el punto de nosotros podemos cambiar
+y podemos añadir retraso o adelanto entre tareas como lo hacemos pues muy sencillo
+por ejemplo
+en este caso
+vamos a introducir un retraso de cinco días como lo hacemos pues simplemente escribimos aquí cinco de
+o lo configuramos con las flechas
+y qué ocurre al hacer esto pues lo que podemos observar nuestro diagrama de tareas
+es que aunque esta tarea y está
+también vinculadas
+hemos observar la flecha que las vinculada
+añadirle información de más cinco días
+lo que estamos diciendo es que empieza cinco días laborables después de que finalice la tarea predecesora
+es decir hemos introducido
+un retraso
+entre la tarea sucesora y su predecesora respecto a la fecha inicialmente
+tendríamos por defecto que sería inmediatamente a continuación
+bueno pues de la misma forma que hemos introducido un retraso pues podemos introducir un adelanto
+la forma de hacerlo es muy sencilla
+en la misma ventana
+añadimos
+en este caso con un número negativo este menos tres que estoy poniendo a modo de ejemplo
+indicaría que queremos que empiece tres días antes de que finalice su tarea predecesora
+cuál sería el resultado de introducir
+esta información en la pestaña de configuración
+lo que podemos observar
+aquí es que aunque exige mantener el vínculo entre la tarea predecesora y sucesora
+el comienzo la tarea sucesora no se realiza en el
+a continuación inmediatamente sino que se han adelantado tres días laborables bueno en este caso podemos observar
+que además
+al haber unos días no laborables un fin semana
+en medio si miramos los días reales serían cinco días ya que son tres
+un adelanto de tres días
+mas los dos días del fin de semana que no cuenta
+como resumen podemos decir que en este objeto de aprendizaje hemos visto los conceptos de adelantos y atrasos
+entre tareas y hemos visto cómo se configuran con la herramienta project 2007
+muchas gracias.
