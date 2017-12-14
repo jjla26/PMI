@@ -558,3 +558,99 @@ mas los dos días del fin de semana que no cuenta
 como resumen podemos decir que en este objeto de aprendizaje hemos visto los conceptos de adelantos y atrasos
 entre tareas y hemos visto cómo se configuran con la herramienta project 2007
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Elaboración del Cronograma (Project 2007)   Restricciones en las Fechas
+
+Restricciones en las Fechas
+ 
+Hola buenas el objetivo de este objeto de aprendizaje
+es describir el concepto de lo que son las restricciones en las fechas de las tareas de un proyecto
+y cómo se configuran dichas restricciones en las fechas en el project 2007
+cuando nosotros
+tenemos
+el diagrama Grantt de un proyecto con sus diferentes hitos y tareas sus relaciones entre tareas
+normalmente la única fecha
+que solemos poner por defecto es la fecha en que comienza el proyecto
+el resto de fechas de inicio y fin de cada tarea
+normalmente se establecen
+por los vínculos que existen entre las tareas del proyecto
+no porque nosotros pongamos restricciones explícitamente en las fechas
+para decir que una determinada tarea se tiene que realizar en determinada fecha
+cuál es el motivo por el motivo es que
+lo que intenta la herramienta
+el project en este caso
+es configurar todo nuestro proyecto para que se realicen el mínimo tiempo posible
+y la única información que utiliza para ajustar
+el calendario laboral de las tareas de nuestro proyecto son los vínculos entre las tareas
+cuando nosotros introducimos una restricción un poco lo que estamos haciendo es ir en contra
+de lo que es la filosofía que está implícita en esta herramienta que es la de
+ajustar el tiempo para que ocupe el mínimo posible
+entonces
+cuando nosotros hemos una en una restricción en una fecha
+tenemos que tener claro que esa restricción nos va a condicionar
+toda la planificación temporal de nuestro proyecto
+y es una cosa que sólo se debe hacer cuando sea estrictamente necesaria
+ahora cuando una determinada tarea o un hito tiene que ocurrir en una determinada fecha no tenemos más remedio que introducirlo
+como lo hacemos
+por la forma de hacerlo es
+nosotros vamos
+el clic justo en el identificador de la tarea entonces nos aparece
+la ventana desplegable con información sobre las tareas sus restricciones sus vínculos etcétera
+nosotros podemos ver que
+en la pestaña general
+aquí nos aparece en este caso en concreto el comienzo de la tarea es el miércoles
+dieciocho de mayo de dos mil once en este caso esta fecha no la hemos puesto
+nosotros sino que es la que ha puesto
+la herramienta por defecto
+motivado por el vínculo que tiene con otras tareas del proyecto
+entonces si nosotros queremos cambiar
+la fecha para que se produzca
+en una fecha determinada este es el sitio donde tenemos que hacerlo
+nosotros cambiamos la fecha por ejemplo en este caso lo que estoy poniendo es que esta tarea se tiene
+que
+empezar el veinticinco de mayo de dos mil once es decir añadido
+una modificación respecto a la fecha que por defecto ha configurado el project
+cuando nosotros le damos a aceptar
+vemos que nos aparece una ventana con información adicional porque nos aparece esta ventana por como estoy comentando
+cuando nosotros añadimos restricciones en las fechas
+estamos un poco
+actuando en contra de la planificación que nos está dando la herramienta
+entonces
+nos advierte
+nos está indicando
+movemos la tarea para que comience
+la fecha que hemos indicado y elimine el vínculo pero nosotros la hemos puesto un vínculo que decía esta
+tarea comienza justo cuando termine la tarea predecesora
+y esa información es
+en cierto sentido contradictoria con información esta opción no pero además ahora queremos que empiece el miércoles
+veinticinco entonces que nos dice si empieza el veinticinco
+la restricción que hace falta o no
+elimina el vínculo nos está planteando simplemente
+que ese vinculó en realidad ya no va hacer falta pero bueno de cualquier forma nosotros
+podemos llegar a mantener porque nos interese en nuestro diagrama de tareas de nuestro proyecto
+nos interesa mantener que existe una vinculación entre tareas que hemos comentado ya no tendrá efecto la planificación porque estamos
+especificando la fecha estamos haciendo una restricción en la fecha
+en caso que queramos mantener el vínculo pues podemos marcar la opción la segunda opción que aparece en esta ventana
+mover la tarea para que comience el miércoles veinticinco
+y conserva el vínculo pues bueno si hacemos esta opción que es lo que veremos
+por lo que podemos observar nuestro diagrama de tareas es que esta tarea se ha movido
+para empezar la fecha que le hemos dicho ahora
+estamos manteniendo el vínculo
+en realidad este vínculo ahora
+el único efecto que tienes mostrarnos nuestro diagrama tareas que una tarea se realiza a continuación de la otra
+pero no tiene efecto sobre la planificación temporal ya que hemos introducido una restricción en la fecha
+esta restricción la podemos ver porque en la columna en la que en la primera columna
+vemos que aparece una marca diferente a las que
+a las que no hay en el resto de tareas que no tienen ninguna restricción si nosotros nos
+ponemos encima
+vemos que nos da información nos dice esta tarea que una delimitación no comenzar antes
+del miércoles veinticinco de mayo de dos mil once
+bueno alguna forma
+esta restricción que como es como estoy comentando es algo
+un poco excepcional en nuestra planificación del proyecto
+nos la marca explícitamente para que sepamos cuando nosotros estamos viendo nuestro diagrama tareas que ahí
+hay algo un poco especial un poco distinto
+como resumen podemos decir que en este objeto de aprendizaje
+hemos visto lo que sería el concepto de introducir una restricción en las fechas de una tarea de un proyecto
+y hemos visto cómo se configura estas restricciones en el project 2007
+muchas gracias.
