@@ -654,3 +654,102 @@ como resumen podemos decir que en este objeto de aprendizaje
 hemos visto lo que sería el concepto de introducir una restricción en las fechas de una tarea de un proyecto
 y hemos visto cómo se configura estas restricciones en el project 2007
 muchas gracias.
+
+# Curso   Gestión del Tiempo de un Proyecto   Elaboración del Cronograma (Project 2007)   Calendario Laboral
+
+Calendario Laboral
+ 
+Hola buenas
+el objetivo de este objeto de aprendizaje es describir el calendario laboral de un proyecto y su configuración con el project
+dos mil siete
+cuando nosotros abrimos un documento nuevo
+de project dos mil siete
+podemos observar dos zonas de trabajo claramente definidas en la parte izquierda
+es la zona donde nosotros definimos las diferentes tareas sus duraciones etcétera
+y en la parte de la derecha lo que podemos observar es un calendario laboral
+es importante
+resaltar que el calendario laboral ya que el project dos mil siete se utiliza para configurar
+tareas trabajos actividades en el marco de un proyecto y normalmente este trabajo lo hacemos en
+días laborales por lo tanto
+en principio los días festivos
+que en este caso no aparecen marcados en gris son días que no cuentan a la
+hora de definir la duración de nuestras tareas
+por defecto
+los
+los días que aparecen como festivos son los sábados y domingos y los días que aparecen como
+laborales son de lunes a viernes
+pero esta configuración por defecto puede tener muchas excepciones
+ya que dependiendo de la zona donde estemos trabajando la ciudad a la región el país
+hay determinados días que pueden ser festivos o no
+también dependiendo del sector en el que trabajemos puede haber días que sean laborables o no
+entonces cuando nosotros queremos configurar un calendario laboral específico para nuestro proyecto
+lo que tenemos que hacer es
+en el apartado de herramientas está la opción de cambiar el calendario laboral
+cunado entramos en esta
+en esta opción nos aparece esta ventana
+en la que está aparece resaltado el apartado excepciones
+es lo que queremos decir con excepciones pues excepciones son
+cualquier día que no sea laboral
+respecto al calendario por defecto que estamos utilizando
+como comentaba antes por defecto los días de lunes a viernes son laborales
+y los sábados y domingos son festivos por defecto
+vamos a añadir una excepción a modo de ejemplo
+por ejemplo
+en este caso
+estoy indicando que el día veinte de mayo de dos mil once
+le denominó ejemplo de excepción va a ser no laborable
+simplemente con añadir estado
+esta información en esta ciudad
+ya estamos haciendo pero para verlo con más detalle vamos a entrar en el apartado detalles
+al entrar en el apartado detalles nos aparece esta ventana
+si vemos con más detalle vemos que lo que estamos indicándole es que este día no laborable
+tambien vemos que el patrón de repetición que estamos indicando es que sea diario
+es decir por defecto cuando nosotros añadimos una excepción en nuestro calendario laboral
+lo que estamos diciendo es que ese día en particular base no laborable
+pero ya está
+en algún caso nos puede interesar añadir patrones de repetición semanales mensuales y anuales por ejemplo si quisiéramos añadir
+que el diecinueve de marzo es festivo en valencia
+como esta fiesta se repite anualmente pues marcaríamos opción de anual en el patrón de repetición
+bueno con estas opciones nosotros podemos configurar las diferentes opciones
+de que días laborales que días no los patrones de repetición etcétera
+cuando nosotros añadimos una excepción lo que podemos observar en el calendario laboral
+es que este día en concreto ahora aparece en gris que es
+el color que se utiliza
+en esta ventana para indicar que un día festivo
+y el color blanco nos indica que es día laborable
+nosotros también podemos ver más información respecto al calendario laboral que también es importante desde el
+punto de vista la configuración de un proyecto
+por ejemplo por defecto podemos ver
+que los días laborales son
+de lunes a viernes también que el año fiscal comienza en enero incluso podemos configurar la hora de trabajo
+laboral de nuestro proyecto por ejemplo en este caso aparece
+de nueve de la mañana a siete de la tarde
+también podemos decir cuál es la duración
+en horas laborales por cada día de trabajo por defecto son ocho horas
+con la semana laboral de cuarenta horas los días por mes veinte horas
+esta información es importante porque por ejemplo cuando nosotros indicamos a una tarea dura
+veinte días laborales
+lo que está asumiendo
+la herramienta es que pues
+con un jornada de ocho horas si por ejemplo estamos diciendo veinte horas que estamos diciendo
+que la duración de esa tarea son ciento sesenta horas laborales
+y
+entonces normalmente por defecto estamos considerando que la forma de laborar son de ocho horas
+a la semana de cuarenta horas pero esta información pues también se puede cambiar
+en estas pestañas
+como podemos ver aquí pues con esto esto se puede ver aquí con más detalle lo que estaba
+comentando donde podemos configurar todos estos aspectos de nuestro calendario laboral
+por último también es importante
+que a veces nosotros lo que queremos es crear diferentes calendarios laborales ya que en una determinada empresa organización
+es posible que con único calendario laboral no tengamos suficiente para abarcar todas las posibles tareas
+proyectos
+que nos pueden surgir
+en ese caso nosotros vemos la opción de crear diferentes calendarios laborales
+lo vemos aquí
+simplemente cuando nosotros damos la opción de crear un nuevo calendario
+pues nos aparece esta ventana donde nosotros ponemos la información de nombre
+normalmente partimos de una copia del calendario estándar y a partir de ahí añadimos todas las modificaciones que consideremos necesarias
+para cubrir las necesidades de nuestro proyecto
+como resumen podemos decir que en este objeto de aprendizaje hemos visto
+el calendario laboral de un proyecto y cómo se configura en el project dos mil siete
+muchas gracias.
